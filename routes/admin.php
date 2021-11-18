@@ -7,7 +7,7 @@ use App\Http\Controllers\Admin\roleController;
 use App\Http\Controllers\admin\userController;
 
 
-Route::get('', [homeController::class, 'index'])->middleware('can:Ver Dashboard')->name('home');
+Route::get('', [homeController::class, 'index'])->name('home');
 
 Route::resource('roles', roleController::class)->names('roles');
 

@@ -7,6 +7,11 @@ use Illuminate\Http\Request;
 
 class homeController extends Controller
 {
+
+    public function __construct(){
+        $this->middleware('can:Ver Dashboard')->only('index');
+    }
+        
     public function index(){
         return view('admin.index');
     }
