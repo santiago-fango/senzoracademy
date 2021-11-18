@@ -6,5 +6,5 @@ use GuzzleHttp\Middleware;
 
 Route::redirect('', 'instructor/courses');
 
-Route::get('courses', InstructorCourses::class)->middleware('can:Leer cursos')->name('courses.index');
+Route::get('courses', InstructorCourses::class)->Middleware('can:Leer cursos')->name('courses.index');
 
