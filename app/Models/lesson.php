@@ -41,7 +41,7 @@ class lesson extends Model
     //Relacion 1 a 1 polimorfica
 
     public function resource(){
-        return $this->morphOne('App\Models\resouce', 'resourceable');
+        return $this->morphOne('App\Models\resource', 'resourceable');
     }
 
     //Relacion 1 a muchos polimorfica

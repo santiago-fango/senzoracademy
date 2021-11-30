@@ -31,4 +31,12 @@ class coursePolicy
             return false;
         }
     }
+
+    public function dictated(user $user, course $course){
+        if ($course->user_id == $user->id) {
+            return true;
+        }else{
+            return false;
+        }
+    }
 }

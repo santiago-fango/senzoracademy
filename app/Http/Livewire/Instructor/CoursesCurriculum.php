@@ -6,8 +6,15 @@ use Livewire\Component;
 use App\Models\course;
 use App\Models\section;
 
+use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
+
 class CoursesCurriculum extends Component
 {
+    public function __construct(){
+        $this->middleware('can:Actualizar cursos')->only('index');
+   }
+
+    use AuthorizesRequests;
 
     public $course, $section, $name;
 
@@ -19,6 +26,8 @@ class CoursesCurriculum extends Component
 
         $this->course = $course;
         $this->section = new section();
+
+        $this->authorize('dictated', $course);
 
     }
 
