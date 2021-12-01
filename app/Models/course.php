@@ -45,6 +45,12 @@ class course extends Model
     public function getRouteKeyName(){
         return 'slug';
     }
+
+    // Relacion 1 a 1
+
+    public function observation(){
+        return $this->hasOne('App\Models\Observation');
+    }
     //Relacion 1 a muchos
     public function reviews(){
         return $this->hasMany('App\Models\review');

@@ -10,9 +10,9 @@ use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
 
 class CoursesCurriculum extends Component
 {
-    public function __construct(){
-        $this->middleware('can:Actualizar cursos')->only('index');
-   }
+//     public function __construct(){
+//         $this->middleware('can:Actualizar cursos')->only('render');
+//    }
 
     use AuthorizesRequests;
 
@@ -34,7 +34,7 @@ class CoursesCurriculum extends Component
 
     public function render()
     {
-        return view('livewire.instructor.courses-curriculum')->layout('layouts.instructor ');
+        return view('livewire.instructor.courses-curriculum')->layout('layouts.instructor', ['course' => $this->course]);
     }
 
     public function store(){

@@ -1,10 +1,5 @@
 <div>
     {{-- In work, do what you enjoy. --}}
-
-    <x-slot name="course">
-        {{$course->slug}}
-    </x-slot>
-
     <h1 class="text-2xl font-bold mb-4">Estudiantes del curso</h1>
 
     <x-table-responsive>
