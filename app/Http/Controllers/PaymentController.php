@@ -32,8 +32,8 @@ class PaymentController extends Controller
         $transaction->setAmount($amount);
 
         $redirectUrls = new \PayPal\Api\RedirectUrls();
-        $redirectUrls->setReturnUrl("https://example.com/your_redirect_url.html")
-            ->setCancelUrl("https://example.com/your_cancel_url.html");
+        $redirectUrls->setReturnUrl(route('payment.approved', $course))
+            ->setCancelUrl(route('payment.checkout', $course));
 
         $payment = new \PayPal\Api\Payment();
         $payment->setIntent('sale')
@@ -53,5 +53,28 @@ class PaymentController extends Controller
             //REALLY HELPFUL FOR DEBUGGING
             echo $ex->getData();
         }
+    }
+
+    public function approved(Request $request, course $course){
+
+        $apiContext = new \PayPal\Rest\ApiContext(
+            new \PayPal\Auth\OAuthTokenCredential(
+                config('services.paypal.client_id'),     // ClientID
+                config('services.paypal.client_secret')      // ClientSecret
+            )
+        );
+
+
+        $paymentId = $_GET['paymentId'];
+        $payment = \PayPal\Api\Payment::get($paymentId, $apiContext);
+
+        $execution = new \PayPal\Api\PaymentExecution();
+        $execution->setPayerId($_GET['PayerID']);
+
+        $payment->execute($execution, $apiContext);
+
+        $course->students()->attach(auth()->user()->id);
+        
+        return redirect()->route('courses.status', $course);
     }
 }
