@@ -34,7 +34,7 @@
                 <header class="mt-2">
                     <h2 class="text-center text-2xl text-gray-700">Escaner</h2>
                 </header>
-                <p class="text-sm text-gray-500">En senzoracademy encontraras varis cursos con los cuales podras complementar tu formacion en inyeccion electronica!</p>
+                <p class="text-sm text-gray-500">En senzoracademy encontraras varios cursos con los cuales podras complementar tu formacion en inyeccion electronica!</p>
             </article>
 
             <article>
@@ -45,7 +45,7 @@
                 <header class="mt-2">
                     <h2 class="text-center text-2xl text-gray-700">Herramientas</h2>
                 </header>
-                <p class="text-sm text-gray-500">En senzoracademy encontraras varis cursos con los cuales podras complementar tu formacion en inyeccion electronica!</p>
+                <p class="text-sm text-gray-500">En senzoracademy encontraras varios cursos con los cuales podras complementar tu formacion en inyeccion electronica!</p>
             </article>
             
             <article>
@@ -56,7 +56,7 @@
                 <header class="mt-2">
                     <h2 class="text-center text-2xl text-gray-700">Manuales</h2>
                 </header>
-                <p class="text-sm text-gray-500">En senzoracademy encontraras varis cursos con los cuales podras complementar tu formacion en inyeccion electronica!</p>
+                <p class="text-sm text-gray-500">En senzoracademy encontraras varios cursos con los cuales podras complementar tu formacion en inyeccion electronica!</p>
             </article>
         </div>
     </section>
