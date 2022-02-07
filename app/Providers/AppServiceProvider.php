@@ -35,5 +35,9 @@ class AppServiceProvider extends ServiceProvider
         Blade::directive('routeIs', function ($expression) {
             return "<?php if(Request::url() == route($expression)): ?>";
         });
+        
+        $this->app->bind('path.public', function() {
+        return base_path().'/../public_html';
+    });
     }
 }
