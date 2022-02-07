@@ -99,7 +99,7 @@
                             <p class="text-2xl font-bold text-gray-500 mt-3 mb-2">GRATIS</p>    
                             <form action="{{route('courses.enrolled', $course)}}" method="POST">
                                 @csrf
-                                <button class="btn btn-danger btn-block mt-4" type="submit">Inscribirse ahora</button>
+                                <button class="btn btn-danger btn-block mt-4" type="submit">Inicia YA!</button>
                             </form>
                         @else
                             <p class="text-2xl font-bold text-gray-500 mt-3 mb-2">${{$course->price->value}}</p>
