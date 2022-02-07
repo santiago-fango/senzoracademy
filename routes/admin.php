@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Route;
 
 use App\Http\Controllers\Admin\homeController;
 use App\Http\Controllers\Admin\roleController;
-use App\Http\Controllers\admin\userController;
+use App\Http\Controllers\Admin\userController;
 use App\Http\Controllers\Admin\CourseController;
 use App\Http\Controllers\Admin\CategoryController;
 use App\Http\Controllers\Admin\LevelController;
