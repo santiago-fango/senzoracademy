@@ -20,6 +20,10 @@ class PaymentController extends Controller
             )
         );
 
+        $apiContext->setConfig([
+            'mode' => 'live',
+        ]);
+
                 // After Step 2
         $payer = new \PayPal\Api\Payer();
         $payer->setPaymentMethod('paypal');
