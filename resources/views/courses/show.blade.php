@@ -69,12 +69,14 @@
                 </section>
             </section>
 
-            <section>
-                <h1 class="font-bold text-3xl">Descripción</h1>
-                
-                <div class="text-gray-700 text-base">
-                    {!!$course->description!!}
-                </div>
+            <section class="card mb-8">
+                <section class="card-body">
+                    <h1 class="font-bold text-3xl">Descripción</h1>
+                    
+                    <div class="text-gray-700 text-base">
+                        {!!$course->description!!}
+                    </div>
+                </section>
             </section>
 
             @livewire('courses-reviews', ['course' => $course])
