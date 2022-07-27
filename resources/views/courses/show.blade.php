@@ -82,7 +82,7 @@
             </section>
 
             <!-- Boton de Whatsapp -->
-            <section>
+            <section class="lg: mx-72">
                 <div class="flex flex-col px-8 mx-8 bg-green-600 shadow-md rounded-2xl">
                     <a href="https://wa.link/6i4lmo" target="_blank">
                         <div class="flex items-center justify-between">
