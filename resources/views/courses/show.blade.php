@@ -18,6 +18,30 @@
 
     <div class="container grid grid-cols-1 lg:grid-cols-3 gap-6">
         <div class="order-2 lg:col-span-2 lg:order-1">
+            <!-- Descripcion -->
+            <section class="card mb-8">
+                <section class="card-body">
+                    <h1 class="font-bold text-3xl">Descripción</h1>
+                    
+                    <div class="text-gray-700 text-base">
+                        {!!$course->description!!}
+                    </div>
+                </section>
+            </section>
+            
+            <!-- Requisitos -->
+            <section class="card mb-8">
+                <section class="card-body">
+                    <h1 class="font-bold text-3xl">Requisitos</h1>
+                    
+                    <ul class="list-disc list-inside">
+                        @foreach ($course->requirements as $requirement)
+                            <li class="text-gray-700 text-base">{{$requirement->name}}</li>
+                        @endforeach
+                    </ul>
+                </section>
+            </section>
+
             <section class="card mb-12">
                 <div class="card-body">
                     <h1 class="font-bold text-2xl mb-2">Lo que aprenderas</h1>
@@ -55,28 +79,6 @@
                         </div>
                     </article>
                 @endforeach
-            </section>
-
-            <section class="card mb-8">
-                <section class="card-body">
-                    <h1 class="font-bold text-3xl">Requisitos</h1>
-                    
-                    <ul class="list-disc list-inside">
-                        @foreach ($course->requirements as $requirement)
-                            <li class="text-gray-700 text-base">{{$requirement->name}}</li>
-                        @endforeach
-                    </ul>
-                </section>
-            </section>
-
-            <section class="card mb-8">
-                <section class="card-body">
-                    <h1 class="font-bold text-3xl">Descripción</h1>
-                    
-                    <div class="text-gray-700 text-base">
-                        {!!$course->description!!}
-                    </div>
-                </section>
             </section>
 
             @livewire('courses-reviews', ['course' => $course])
