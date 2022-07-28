@@ -10,7 +10,12 @@
             'name' => 'Cursos',
             'route' => route('courses.index'),
             'active' => request()->routeIs('courses.*')
-        ]
+        ],/*[
+            
+            'name' => 'Cursos presenciales',
+            'route' => route('courses.index'),
+            'active' => request()->routeIs('courses.*')
+        ]*/
 
     ];   
 @endphp
@@ -282,7 +287,7 @@
         @else
             <div class="py-1 border-t border-gray-200">
                 <x-jet-responsive-nav-link href="{{ route('login') }}" :active="request()->routeIs('login')">
-                    Inicio de secion
+                    Inicio de sesión
                 </x-jet-responsive-nav-link>
 
                 <x-jet-responsive-nav-link href="{{ route('register') }}" :active="request()->routeIs('register')">
