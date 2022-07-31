@@ -17,10 +17,10 @@
             </div>                
         </div>
     </section>
-    <section class="relative  bg-blueGray-50">
+
+    <section class="relative  bg-white">
         <div class="relative pt-16 pb-32 flex content-center items-center justify-center min-h-screen-75">
-                <div class="absolute top-0 w-full h-full bg-center bg-cover" style="
-                    background-image: url('https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1267&amp;q=80');">
+                <div class="absolute top-0 w-full h-full bg-center bg-cover" style="background-image: url('https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1267&amp;q=80');">
                   <span id="blackOverlay" class="w-full h-full absolute opacity-75 bg-black"></span>
                 </div>
                 <div class="container relative mx-auto">
@@ -30,7 +30,7 @@
                         <h1 class="text-white font-semibold text-5xl">
                           Capacitate con nosotros
                         </h1>
-                        <p class="mt-4 text-lg text-blueGray-200">
+                        <p class="mt-4 text-lg text-white">
                           This is a simple example of a Landing Page you can build using
                           Notus JS. It features multiple CSS components based on the
                           Tailwind CSS design system.
@@ -99,7 +99,7 @@
         <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
             <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
                 <h2 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">¿Que veremos en el curso?</h2>
-                <p class="mb-4">Actualmente en el curso veremos temas como:</p>
+                <p class="mb-4">Algunos temas del curso son:</p>
                 <div class="grid grid-cols-2 gap-4">
                     <ul style="list-style-type: circle;">
                         <li>PRUEBAS DE ESTADO MECANICO</li>
@@ -114,18 +114,6 @@
                         <li>SENSORES DE OXIGENO</li>
                         <li>ESCANER</li>
                         <li>INYECTORES</li>
-                    </ul>
-                    <p class="mb-4">Tambien veremos</p>
-                    <ul>
-                        <li>EMISIONES Y CATALIZADORES</li>
-                        <li>SISTEMAS DE INYECCION SIN BATERIA</li>
-                        <li>SISTEMAS DE FRENOS ABS</li>
-                        <li>SINCRONIZACION</li>
-                        <li>SISTEMA DE INYECCION YAMAHA</li>
-                        <li>SISTEMA DE INYECCION SUZUKI</li>
-                        <li>SISTEMA DE INYECCION HONDA</li>
-                        <li>SISTEMA DE INYECCION KAWASAKI</li>
-                        <li>SISTEMA DE INYECCION BAJAJ</li>
                     </ul>
                 </div>
                 
