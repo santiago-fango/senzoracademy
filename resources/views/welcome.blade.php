@@ -176,5 +176,7 @@
             @endforeach
         </div>
     </section>
+
+    @include('footer');
 </x-app-layout>
 
