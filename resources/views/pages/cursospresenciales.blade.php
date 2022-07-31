@@ -24,7 +24,7 @@
             <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
                 <h2 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">¿Que veremos en el curso?</h2>
                 <p class="mb-4">Actualmente en el curso veremos temas como:</p>
-                <div class="lg:grid lg:grid-cols-2">
+                <div class="lg:grid lg:grid-cols-2 lg:gap-4">
                     <ul style="list-style-type: circle;">
                         <li>PRUEBAS DE ESTADO MECANICO</li>
                         <li>HERRAMIENTAS DE MEDICIÓN</li>
@@ -36,10 +36,6 @@
                         <li>CUERPO DE ACELERACION</li>
                         <li>BOMBA DE COMBUSTIBLE</li>
                         <li>SENSORES DE OXIGENO</li>
-                    </ul>
-                </div>
-                <div class="lg:grid lg:grid-cols-2">
-                    <ul>
                         <li>ESCANER</li>
                         <li>INYECTORES</li>
                         <li>EMISIONES Y CATALIZADORES</li>
@@ -71,7 +67,7 @@
             <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
                 <h2 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">¿Sensores?</h2>
                 <p class="mb-4">También se estudiaran diversos sensores los cuales encontraras en las motocicletas que puedes llegar a diagnosticar, sensores como:</p>
-                <ul>
+                <ul style="list-style-type: circle;">
                     <li>CKP</li>
                     <li>TPS</li>
                     <li>MAP</li>
