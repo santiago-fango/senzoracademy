@@ -177,6 +177,6 @@
         </div>
     </section>
 
-    @include('footer');
+    @include('footer')
 </x-app-layout>
 
