@@ -40,5 +40,6 @@
             {{$js}}
         @endisset
 
+        @include('footer')
     </body>
 </html>

@@ -13,8 +13,8 @@
         ],/*[
             
             'name' => 'Cursos presenciales',
-            'route' => route('courses.index'),
-            'active' => request()->routeIs('courses.*')
+            'route' => route('pages.cursospresenciales'),
+            'active' => request()->routeIs('pages.cursospresenciales')
         ]*/
 
     ];   
