@@ -35,5 +35,5 @@ Route::post('courses/{course}/enrolled', [courseController::class, 'enrolled'])-
 Route::get('course-status/{course}', CourseStatus::class)->name('courses.status')->middleware('auth');
 
 Route::get('pages/cursospresenciales', function(){
-    return view('pages.cursosprecensiales');
+    return view('pages.cursospresenciales');
 })->name('cursospresenciales');
