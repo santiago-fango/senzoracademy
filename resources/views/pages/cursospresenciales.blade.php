@@ -28,12 +28,10 @@
                     <div class="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
                       <div class="pr-12">
                         <h1 class="text-white font-semibold text-5xl">
-                          Capacitate con nosotros
+                          ¿Que lograrás con este curso?
                         </h1>
                         <p class="mt-4 text-lg text-white">
-                          This is a simple example of a Landing Page you can build using
-                          Notus JS. It features multiple CSS components based on the
-                          Tailwind CSS design system.
+                          Los beneficios de tomar este curso con nosotros son:
                         </p>
                       </div>
                     </div>
@@ -54,10 +52,10 @@
                           <div class="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-red-400">
                             <i class="fas fa-award"></i>
                           </div>
-                          <h6 class="text-xl font-semibold">Tipos de inyección</h6>
+                          <h6 class="text-xl font-semibold">Mejor Diagnostico</h6>
                           <p class="mt-2 mb-4 text-blueGray-500">
-                            Divide details about your product or agency work into parts.
-                            A paragraph describing a feature will be enough.
+                            Aprenderas el funcionamiento de los sistemas de inyección
+                            y de esta manera lograras diganosticar mucho mejor
                           </p>
                         </div>
                       </div>
@@ -68,10 +66,10 @@
                           <div class="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-lightBlue-400">
                             <i class="fas fa-retweet"></i>
                           </div>
-                          <h6 class="text-xl font-semibold">Free Revisions</h6>
+                          <h6 class="text-xl font-semibold">Totalmente Precensial</h6>
                           <p class="mt-2 mb-4 text-blueGray-500">
-                            Keep you user engaged by providing meaningful information.
-                            Remember that by this time, the user is curious.
+                            En nuestras clases presenciales podras interactuar
+                            con mas gente que comparte este interes por las motocicletas
                           </p>
                         </div>
                       </div>
@@ -82,16 +80,15 @@
                           <div class="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-emerald-400">
                             <i class="fas fa-fingerprint"></i>
                           </div>
-                          <h6 class="text-xl font-semibold">Verified Company</h6>
+                          <h6 class="text-xl font-semibold">Informacion a la mano</h6>
                           <p class="mt-2 mb-4 text-blueGray-500">
-                            Write a few lines about each one. A paragraph describing a
-                            feature will be enough. Keep you user engaged!
+                            Recibiras acceso a una serie de videos
+                            y material de apoyo para tu aprendizaje
                           </p>
                         </div>
                       </div>
                     </div>
                   </div>
-                   
         </section>
     </section>
 
@@ -101,19 +98,16 @@
                 <h2 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">¿Que veremos en el curso?</h2>
                 <p class="mb-4">Algunos temas del curso son:</p>
                 <div class="grid grid-cols-2 gap-4">
-                    <ul style="list-style-type: circle;">
+                    <ul class="px-2" style="list-style-type: circle;">
                         <li>PRUEBAS DE ESTADO MECANICO</li>
                         <li>HERRAMIENTAS DE MEDICIÓN</li>
                         <li>INTRODUCCIÓN A LA ELECTRÓNICA</li>
-                        <li>INTRODUCCIÓN A LA ELECTRÓNICA</li>
-                        <li>ALIMENTACIÓN ELECTRÓNICA</li>
                         <li>SENSORES</li>
-                        <li>VALVULA DE MINIMA ISC O IAC</li>
-                        <li>CUERPO DE ACELERACION</li>
                         <li>BOMBA DE COMBUSTIBLE</li>
-                        <li>SENSORES DE OXIGENO</li>
                         <li>ESCANER</li>
                         <li>INYECTORES</li>
+                        <li>SISTEMAS DE INYECCION SIN BATERIA</li>
+                        <li>SISTEMAS DE FRENOS ABS</li>
                     </ul>
                 </div>
                 
@@ -134,7 +128,7 @@
             <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
                 <h2 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">¿Sensores?</h2>
                 <p class="mb-4">También se estudiaran diversos sensores los cuales encontraras en las motocicletas que puedes llegar a diagnosticar, sensores como:</p>
-                <ul style="list-style-type: circle;">
+                <ul class="px-2" style="list-style-type: circle;">
                     <li>CKP</li>
                     <li>TPS</li>
                     <li>MAP</li>
