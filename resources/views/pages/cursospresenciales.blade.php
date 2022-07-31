@@ -24,8 +24,8 @@
             <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
                 <h2 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">¿Que veremos en el curso?</h2>
                 <p class="mb-4">Actualmente en el curso veremos temas como:</p>
-                <div class="lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
-                    <ul>
+                <div class="lg:grid lg:grid-cols-2">
+                    <ul style="list-style-type: circle;">
                         <li>PRUEBAS DE ESTADO MECANICO</li>
                         <li>HERRAMIENTAS DE MEDICIÓN</li>
                         <li>INTRODUCCIÓN A LA ELECTRÓNICA</li>
@@ -38,7 +38,7 @@
                         <li>SENSORES DE OXIGENO</li>
                     </ul>
                 </div>
-                <div class="lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+                <div class="lg:grid lg:grid-cols-2">
                     <ul>
                         <li>ESCANER</li>
                         <li>INYECTORES</li>
@@ -91,9 +91,6 @@
             </div>
         </div>
       </section>
-
-    @include('footer');
-
 </body>
 </html>
 </x-app-layout>
