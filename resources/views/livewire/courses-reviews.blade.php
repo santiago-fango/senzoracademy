@@ -1,6 +1,6 @@
-<section class="mt-4">
+<section class="mt-4 mb-2.5">
     {{-- The best athlete wants his opponent at his best. --}}
-    <h1 class="font-bold text-3xl mb-2">valoración</h1>
+    <h1 class="font-bold text-3xl mb-2">Valoración</h1>
 
     @can('enrolled', $course)
         <article class="mb-4">
