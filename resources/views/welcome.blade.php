@@ -166,7 +166,7 @@
 
     
 
-    <section class="my-24">
+    <section class="mt-24">
         <h2 class="text-center text-3xl text-gray-600">Ultimos cursos!</h2>
         <p class="text-center text-gray-500 text-sm mb-6">Aqui encontraras nuestros ultimos cursos!</p>
 
