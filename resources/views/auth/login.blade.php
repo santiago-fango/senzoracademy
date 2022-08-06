@@ -63,9 +63,11 @@
             <div class="flex items-center w-full max-w-md px-6 mx-auto lg:w-2/6">
                 <div class="flex-1">
 
-                    <x-slot name="logo">
-                        <x-jet-authentication-card-logo />
-                    </x-slot>
+                    <div>
+                        <x-slot name="logo">
+                            <x-jet-authentication-card-logo />
+                        </x-slot>
+                    </div>
 
                     <div class="text-center">
                         <h2 class="text-4xl font-bold text-center text-gray-700 dark:text-white">Senzor</h2>
