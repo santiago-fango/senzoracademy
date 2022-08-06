@@ -12,7 +12,7 @@ module.exports = {
     theme: {
         extend: {
             custom:{
-                100: '27c227d1',
+                100: '#27c227d1',
             },
             fontFamily: {
                 sans: ['Nunito', ...defaultTheme.fontFamily.sans],
