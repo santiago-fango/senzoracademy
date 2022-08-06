@@ -63,11 +63,9 @@
             <div class="flex items-center w-full max-w-md px-6 mx-auto lg:w-2/6">
                 <div class="flex-1">
 
-                    <div>
-                        <x-slot name="logo">
-                            <x-jet-authentication-card-logo />
-                        </x-slot>
-                    </div>
+                    <a href="https://senzor.co">
+                        <img src="{{asset('/img/admin/Senzor.png')}}" alt="logo-senzor" style="width:128px;">
+                    </a>
 
                     <div class="text-center">
                         <h2 class="text-4xl font-bold text-center text-gray-700 dark:text-white">Senzor</h2>
