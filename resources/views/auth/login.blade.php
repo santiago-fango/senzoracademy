@@ -63,7 +63,7 @@
             <div class="flex items-center w-full max-w-md px-6 mx-auto lg:w-2/6">
                 <div class="flex-1">
 
-                    <div>
+                    <div class="flex items-center justify-center">
                         <a href="https://senzor.co">
                             <img src="{{asset('/img/admin/Senzor.png')}}" alt="logo-senzor" style="width:100px;">
                         </a>
