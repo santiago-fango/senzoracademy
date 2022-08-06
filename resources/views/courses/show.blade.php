@@ -2,7 +2,7 @@
     <section class="bg-black py-12 mb-12">
         <div class="container grid grid-cols-1 lg:grid-cols-2 gap-6 ">
             <figure >
-                <img class="h-60 w-full object-cover" src="{{Storage::url($course->image->url)}}" alt="">
+                <img class="h-60 w-full object-fill" src="{{Storage::url($course->image->url)}}" alt="">
             </figure>
 
             <div class="text-white">
