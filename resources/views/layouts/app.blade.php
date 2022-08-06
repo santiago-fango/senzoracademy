@@ -54,7 +54,7 @@
             <!--End of Tawk.to Script-->
 
             <!-- Inicio Boton whatsApp Flotante  rgb(39, 194, 39) -->
-            <div class="fixed bottom-1.5 right-1 px-2 rounded-full bg-custom-100 bg-opacity-50">
+            <div class="fixed bottom-1.5 right-1 px-2 rounded-full bg-green-600">
                 <a href="https://wa.link/6i4lmo" target="_blank">
                     <div class="flex items-center">
                         <svg viewBox="0 0 448 512 " class="w-8 h-8 rounded-2xl p-1">
