@@ -11,10 +11,8 @@ module.exports = {
 
     theme: {
         extend: {
-            colors: {
-                whatsapp:{
-                    100: '27c227d1',
-                }
+            custom:{
+                100: '27c227d1',
             },
             fontFamily: {
                 sans: ['Nunito', ...defaultTheme.fontFamily.sans],
