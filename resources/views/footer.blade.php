@@ -25,7 +25,7 @@
                         <li class="mb-4">
                             <a href="https://www.facebook.com/senzorcolombia" class="hover:underline ">Facebook</a>
                         </li>
-                        <li>
+                        <li class="mb-4">
                             <a href="https://www.instagram.com/senzor._/" class="hover:underline">Instagram</a>
                         </li>
                         <li>
