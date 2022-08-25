@@ -36,4 +36,8 @@ Route::get('course-status/{course}', CourseStatus::class)->name('courses.status'
 
 Route::get('pages/cursospresenciales', function(){
     return view('pages.cursospresenciales');
-})->name('cursospresenciales');
+})->name('cursos-presenciales');
+
+Route::get('pages/inyeccion-electronica', function(){
+    return view('pages.inyeccion-electronica');
+})->name('inyeccion-electronica');

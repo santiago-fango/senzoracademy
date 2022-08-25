@@ -22,7 +22,7 @@
             
             <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
               <div class="rounded-md shadow">
-                <a href="#" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black md:py-4 md:text-lg md:px-10"> Cursos Presenciales </a>
+                <a href="{{route('cursos-presenciales')}}" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black md:py-4 md:text-lg md:px-10"> Cursos Presenciales </a>
                 
               </div>
               <div class="mt-3 sm:mt-0 sm:ml-3">
@@ -45,7 +45,7 @@
 
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-4">
             <article class=" mt-4 mb-4 col-span-2">
-                            <!-- This example requires Tailwind CSS v2.0+ -->
+                           
                 <div class="py-12 bg-white rounded-2xl">
                     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                     <div class="lg:text-center">
