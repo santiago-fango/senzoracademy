@@ -43,10 +43,10 @@
                   </svg>
                 </div>
         </div>
-        <section class="pb-10 bg-blueGray-200 -mt-24">
+        <section class="pb-10 bg-blueGray-200 mt-24">
                 <div class="container mx-auto px-4">
                   <div class="flex flex-wrap">
-                    <div class="lg:pt-12 pt-6 w-full md:w-4/12 px-4 text-center">
+                    <div class="lg:pt-12 w-full md:w-4/12 px-4 text-center">
                       <div class="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg">
                         <div class="px-4 py-5 flex-auto">
                           <div class="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-red-400">
@@ -64,7 +64,7 @@
                       <div class="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg">
                         <div class="px-4 py-5 flex-auto">
                           <div class="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-lightBlue-400">
-                            <i class="fas fa-retweet"></i>
+                            <i class="fas fa-award"></i>
                           </div>
                           <h6 class="text-xl font-semibold">Totalmente Precensial</h6>
                           <p class="mt-2 mb-4 text-blueGray-500">
@@ -74,11 +74,11 @@
                         </div>
                       </div>
                     </div>
-                    <div class="pt-6 w-full md:w-4/12 px-4 text-center">
+                    <div class=" w-full md:w-4/12 px-4 text-center">
                       <div class="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg">
                         <div class="px-4 py-5 flex-auto">
                           <div class="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-emerald-400">
-                            <i class="fas fa-fingerprint"></i>
+                            <i class="fas fa-award"></i>
                           </div>
                           <h6 class="text-xl font-semibold">Informacion a la mano</h6>
                           <p class="mt-2 mb-4 text-blueGray-500">
@@ -91,26 +91,18 @@
                   </div>
         </section>
     </section>
-
+    <h2 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">¿Que veremos en el curso?</h2>
     <section class="bg-white dark:bg-gray-900">
         <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
             <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
-                <h2 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">¿Que veremos en el curso?</h2>
-                <p class="mb-4">Algunos temas del curso son:</p>
+                <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Pruebas de Estado Mecánico</h2>
                 <div class="grid grid-cols-2 gap-4">
                     <ul class="px-2" style="list-style-type: circle;">
-                        <li>PRUEBAS DE ESTADO MECANICO</li>
-                        <li>HERRAMIENTAS DE MEDICIÓN</li>
-                        <li>INTRODUCCIÓN A LA ELECTRÓNICA</li>
-                        <li>SENSORES</li>
-                        <li>BOMBA DE COMBUSTIBLE</li>
-                        <li>ESCANER</li>
-                        <li>INYECTORES</li>
-                        <li>SISTEMAS DE INYECCION SIN BATERIA</li>
-                        <li>SISTEMAS DE FRENOS ABS</li>
+                        <li>Prueba de compresión- tip de aceite</li>
+                        <li>Prueba de fugas- explicar traslape valvular</li>
+                        <li>Prueba de presión bomba de inyección</li>
                     </ul>
                 </div>
-                
             </div>
             <div class="grid grid-cols-2 gap-4 mt-8">
                 <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
@@ -126,17 +118,100 @@
                 <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
             </div>
             <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
-                <h2 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">¿Sensores?</h2>
-                <p class="mb-4">También se estudiaran diversos sensores los cuales encontraras en las motocicletas que puedes llegar a diagnosticar, sensores como:</p>
+                <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Herramientas de Medición</h2>
                 <ul class="px-2" style="list-style-type: circle;">
-                    <li>CKP</li>
-                    <li>TPS</li>
-                    <li>MAP</li>
-                    <li>IAT</li>
+                    <li>Escala de Medición</li>
+                    <li>Mulrímetro</li>
+                    <li>Osciloscopio</li>
+                    <li>Pinza amperimétrica</li>
+                    <li>Punta lógica</li>
                 </ul>
             </div>
         </div>
     </section>
+
+    <section class="bg-white dark:bg-gray-900">
+      <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+          <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+              <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Introducción a la Electrónica</h2>
+              <div class="grid grid-cols-2 gap-4">
+                  <ul class="px-2" style="list-style-type: circle;">
+                      <li>Simbología</li>
+                      <li>Conceptos básicos de electrónica</li>
+                      <li>Puente de diodos</li>
+                      <li>Tipos de señales (análoga y digital)</li>
+                      <li>Conexiones en serie y paralelo</li>
+                      <li>Ley de ohm y watt</li>
+                  </ul>
+              </div>
+          </div>
+          <div class="grid grid-cols-2 gap-4 mt-8">
+              <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
+              <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+          </div>
+      </div>
+  </section>
+
+  <section class="bg-white dark:bg-gray-900">
+      <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+          <div class="grid grid-cols-2 gap-4 mt-8">
+              <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
+              <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+          </div>
+          <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+              <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Introducción a la Inyección Electrónica</h2>
+              <ul class="px-2" style="list-style-type: circle;">
+                  <li>Tipos de inyección electrónica</li>
+                  <li>Componentes de inyección electrónica</li>
+                  <li>Principio y estructura-ventajas</li>
+              </ul>
+          </div>
+      </div>
+  </section>
+
+  <section class="bg-white dark:bg-gray-900">
+    <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+        <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+            <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Alimentación Electrónica</h2>
+            <div class="grid grid-cols-2 gap-4">
+                <ul class="px-2" style="list-style-type: circle;">
+                    <li>Medida estequiométrica A/C</li>
+                    <li>Emisiones</li>
+                    <li>Diagnostico a sistema de inyección</li>
+                    <li>Diagnostico por lectura de luz check engine</li>
+                </ul>
+            </div>
+        </div>
+        <div class="grid grid-cols-2 gap-4 mt-8">
+            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+        </div>
+    </div>
+</section>
+
+<section class="bg-white dark:bg-gray-900">
+    <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+        <div class="grid grid-cols-2 gap-4 mt-8">
+            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+        </div>
+        <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+            <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Sensores</h2>
+            <ul class="px-2" style="list-style-type: circle;">
+                <li>CKP-tipos de sensores-señales</li>
+                <li>UP</li>
+                <li>CMP</li>
+                <li>TPS</li>
+                <li>NTC-PTC</li>
+                <li>MAP</li>
+                <li>IAT</li>
+                <li>ECT</li>
+                <li>EOT</li>
+                <li>Sensores híbridos</li>
+            </ul>
+        </div>
+    </div>
+</section>
 
     <section class="bg-white dark:bg-gray-900 dark:bg-gray-800">
         <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
