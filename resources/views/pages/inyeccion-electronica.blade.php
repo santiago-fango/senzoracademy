@@ -43,7 +43,7 @@
                   </svg>
                 </div>
         </div>
-        <section class="pb-10 bg-blueGray-200 mt-24">
+        <section class="pb-10 bg-blueGray-200 -mt-24">
                 <div class="container mx-auto px-4">
                   <div class="flex flex-wrap">
                     <div class="lg:pt-12 w-full md:w-4/12 px-4 text-center">
@@ -63,7 +63,7 @@
                     <div class="w-full md:w-4/12 px-4 text-center">
                       <div class="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg">
                         <div class="px-4 py-5 flex-auto">
-                          <div class="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-lightBlue-400">
+                          <div class="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-red-400">
                             <i class="fas fa-award"></i>
                           </div>
                           <h6 class="text-xl font-semibold">Totalmente Precensial</h6>
@@ -77,7 +77,7 @@
                     <div class=" w-full md:w-4/12 px-4 text-center">
                       <div class="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg">
                         <div class="px-4 py-5 flex-auto">
-                          <div class="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-emerald-400">
+                          <div class="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-red-400">
                             <i class="fas fa-award"></i>
                           </div>
                           <h6 class="text-xl font-semibold">Informacion a la mano</h6>
@@ -91,7 +91,7 @@
                   </div>
         </section>
     </section>
-    <h2 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">¿Que veremos en el curso?</h2>
+    <h2 class="text-4xl font-extrabold bg-white text-gray-900 text-center dark:text-white">¿Que veremos en el curso?</h2>
     <section class="bg-white dark:bg-gray-900">
         <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
             <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
