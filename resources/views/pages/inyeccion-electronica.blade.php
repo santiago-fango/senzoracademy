@@ -187,9 +187,9 @@
             <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
         </div>
     </div>
-</section>
+  </section>
 
-<section class="bg-white dark:bg-gray-900">
+  <section class="bg-white dark:bg-gray-900">
     <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
         <div class="grid grid-cols-2 gap-4 mt-8">
             <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
@@ -211,8 +211,195 @@
             </ul>
         </div>
     </div>
-</section>
+  </section>
 
+  <section class="bg-white dark:bg-gray-900">
+    <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+        <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+            <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Válvula De Mínima ISC O IAC</h3>
+            <div class="grid grid-cols-2 gap-4">
+                <ul class="px-2" style="list-style-type: circle;">
+                    <li>Tipos</li>
+                    <li>Funcionamiento-mantenimiento</li>
+                    <li>Calibración</li>
+                </ul>
+            </div>
+        </div>
+        <div class="grid grid-cols-2 gap-4 mt-8">
+            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+        </div>
+    </div>
+  </section>
+
+  <section class="bg-white dark:bg-gray-900">
+    <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+        <div class="grid grid-cols-2 gap-4 mt-8">
+            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+        </div>
+        <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+            <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Cuerpo De Aceleración</h3>
+            <ul class="px-2" style="list-style-type: circle;">
+                <li>Mariposa electrónica</li>
+                <li>Motores paso a paso</li>
+                <li>Mantenimiento y puesta a punto</li>
+            </ul>
+        </div>
+    </div>
+  </section>
+  
+  <section class="bg-white dark:bg-gray-900">
+    <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+        <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+            <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Bomba De Combustible</h3>
+            <div class="grid grid-cols-2 gap-4">
+                <ul class="px-2" style="list-style-type: circle;">
+                    <li>Clases y funcionamiento</li>
+                    <li>Partes de la bomba de combustible</li>
+                    <li>Reguladores de presión</li>
+                    <li>Presión de combustible</li>
+                    <li>Medidos de combustible</li>
+                    <li>Detección de fallas y servicio</li>
+                </ul>
+            </div>
+        </div>
+        <div class="grid grid-cols-2 gap-4 mt-8">
+            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+        </div>
+    </div>
+  </section>
+
+  <section class="bg-white dark:bg-gray-900">
+    <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+        <div class="grid grid-cols-2 gap-4 mt-8">
+            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+        </div>
+        <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+            <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Sensores De Oxigeno</h3>
+            <ul class="px-2" style="list-style-type: circle;">
+                <li>Tipos de sensores</li>
+                <li>Gestión lambda-multiplicativo y ajuste</li>
+                <li>Diagnostico</li>
+                <li>Medición de señal</li>
+            </ul>
+        </div>
+    </div>
+  </section>
+  
+  <section class="bg-white dark:bg-gray-900">
+    <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+        <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+            <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Escáner</h3>
+            <div class="grid grid-cols-2 gap-4">
+                <ul class="px-2" style="list-style-type: circle;">
+                    <li>Sistema de diagnostico</li>
+                    <li>Códigos de falla</li>
+                    <li>Datos en vivo</li>
+                    <li>Borrado de códigos de falla</li>
+                    <li>Configuraciones y ajustes</li>
+                </ul>
+            </div>
+        </div>
+        <div class="grid grid-cols-2 gap-4 mt-8">
+            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+        </div>
+    </div>
+  </section>
+
+  <section class="bg-white dark:bg-gray-900">
+    <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+        <div class="grid grid-cols-2 gap-4 mt-8">
+            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+        </div>
+        <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+            <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Inyectores</h3>
+            <ul class="px-2" style="list-style-type: circle;">
+                <li>Clases y funcionamiento</li>
+                <li>Lavado</li>
+                <li>Diagnóstico y pruebas</li>
+                <li>Tiempo de inyección</li>
+                <li>Posibles fallas del inyector</li>
+            </ul>
+        </div>
+    </div>
+  </section>
+  
+  <section class="bg-white dark:bg-gray-900">
+    <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+        <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+            <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Emisiones Y Catalizadores</h3>
+            <div class="grid grid-cols-2 gap-4">
+                <ul class="px-2" style="list-style-type: circle;">
+                    <li>Función y tipos de catalizadores</li>
+                    <li>Válvula EGR-EXUP</li>
+                    <li>CANISTER</li>
+                </ul>
+            </div>
+        </div>
+        <div class="grid grid-cols-2 gap-4 mt-8">
+            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+        </div>
+    </div>
+  </section>
+
+  <section class="bg-white dark:bg-gray-900">
+    <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+        <div class="grid grid-cols-2 gap-4 mt-8">
+            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+        </div>
+        <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+            <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Sistemas De Inyección Sin Batería</h3>
+            <ul class="px-2" style="list-style-type: circle;">
+                <li>Partes</li>
+                <li>Diagnóstico y pruebas</li>
+            </ul>
+        </div>
+    </div>
+  </section>
+  
+  <section class="bg-white dark:bg-gray-900">
+    <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+        <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+            <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Sistemas De Frenos ABS</h3>
+            <div class="grid grid-cols-2 gap-4">
+                <ul class="px-2" style="list-style-type: circle;">
+                    <li>Tipos y funcionamiento</li>
+                    <li>Seguridad</li>
+                    <li>Diagnostico</li>
+                </ul>
+            </div>
+        </div>
+        <div class="grid grid-cols-2 gap-4 mt-8">
+            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+        </div>
+    </div>
+  </section>
+
+  <section class="bg-white dark:bg-gray-900">
+    <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+        <div class="grid grid-cols-2 gap-4 mt-8">
+            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
+            <!--<img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">-->
+        </div>
+        <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+            <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Sincronización</h3>
+            <ul class="px-2" style="list-style-type: circle;">
+                <li>Análisis de bujías</li>
+                <li>Filtro de aire</li>
+                <li>Flujo de inyectores</li>
+            </ul>
+        </div>
+    </div>
+  </section>
+  
     <section class="bg-white dark:bg-gray-900 dark:bg-gray-800">
         <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
             <div class="max-w-screen-lg text-gray-500 sm:text-lg dark:text-gray-400">
