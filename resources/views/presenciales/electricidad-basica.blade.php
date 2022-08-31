@@ -96,7 +96,7 @@
         <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
             <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
                 <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Pruebas de Estado Mecánico</h2>
-                <div class="grid grid-cols-2 gap-4">
+                <div>
                     <ul class="px-2" style="list-style-type: circle;">
                         <li>Prueba de Baterías</li>
                         <li>Prueba de Compresión - Tip de Aceite</li>
@@ -134,7 +134,7 @@
                     <li>Tarjetas de Circuitos</li>
                     <li>Escalas de Medida</li>
                     <li>Herramientas de Medición y Reparación</li>
-                        <ul style="list-style-type: upper-roman;">
+                        <ul class="pl-10" style="list-style-type: upper-roman;">
                             <li>Multímetro</li>
                             <li>Pie de Rey o Vernier</li>
                             <li>Cautín (Tipos y Usos)</li>
@@ -158,10 +158,10 @@
       <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
           <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
               <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Sistemas de la Motocicleta</h2>
-              <div class="grid grid-cols-2 gap-4">
+              <div>
                   <ul class="px-2" style="list-style-type: circle;">
                     <li>Sistema de Carga</li>
-                        <ul style="list-style-type: upper-roman;">
+                        <ul class="pl-10" style="list-style-type: upper-roman;">
                             <li>Batería (Tipos, Indicador y Prueba de Consumo)</li>
                             <li>Tipos de Sistema de Carga (Monofásico, Bifásico y Trifásico)</li>
                             <li>Coronas (Tipos, Construcción (como fabricar tu corona) y Diagnóstico)</li>
@@ -170,7 +170,7 @@
                             <li>Transformar Sistemas Monofásicos a Bifásicos</li>
                         </ul>
                     <li>Sistema de Encendido</li>
-                        <ul style="list-style-type: upper-roman;">
+                        <ul class="pl-10" style="list-style-type: upper-roman;">
                             <li>Switch principal de 2 y 4 Pines</li>
                             <li>Sensor CKP</li>
                             <li>Volantes de Inercia (Tiempo de Chispa)</li>
@@ -187,7 +187,7 @@
                             <li>Circuito de Encendido</li>
                         </ul>
                     <li>Sistema de Luces</li>
-                        <ul style="list-style-type: upper-roman;">
+                        <ul class="pl-10" style="list-style-type: upper-roman;">
                             <li>Circuito de Tacómetro (RPM)</li>
                             <li>Circuito de Sensor de Filtro de Aire</li>
                             <li>Bobina de Luces</li>
@@ -199,7 +199,7 @@
                             <li>Instalación de Sistemas AFTER-MARKET (Exploradoras, Bombilleria LED, Alarmas y Tableros Digitales)</li>
                         </ul>
                     <li>Sistema de Información y Seguridad</li>
-                        <ul style="list-style-type: upper-roman;">
+                        <ul class="pl-10" style="list-style-type: upper-roman;">
                             <li>Switch de Clutch</li>
                             <li>Side Stand</li>
                             <li>Sensor de Presión de Aceite</li>

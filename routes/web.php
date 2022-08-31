@@ -35,14 +35,14 @@ Route::post('courses/{course}/enrolled', [courseController::class, 'enrolled'])-
 Route::get('course-status/{course}', CourseStatus::class)->name('courses.status')->middleware('auth');
 
 
-Route::get('pages/cursos-presenciales', function(){
-    return view('pages.cursos-presenciales');
+Route::get('presenciales/cursos-presenciales', function(){
+    return view('presenciales.cursos-presenciales');
 })->name('cursos-presenciales');
 
-Route::get('pages/inyeccion-electronica', function(){
-    return view('pages.inyeccion-electronica');
+Route::get('presenciales/inyeccion-electronica', function(){
+    return view('presenciales.inyeccion-electronica');
 })->name('inyeccion-electronica');
 
-Route::get('pages/electricidad-basica', function(){
-    return view('pages.electricidad-basica');
+Route::get('presenciales/electricidad-basica', function(){
+    return view('presenciales.electricidad-basica');
 })->name('electricidad-basica');
