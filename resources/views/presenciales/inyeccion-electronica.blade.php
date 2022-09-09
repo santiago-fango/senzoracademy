@@ -13,7 +13,7 @@
                 
             </div>
             <div class="hidden lg:mt-0 lg:col-span-5 lg:flex">
-                <img src="url({{asset('img/presenciales/inyeccion-electronica/portada-ie.png')}});" alt="mockup">
+                <img src="{{asset('img/presenciales/inyeccion-electronica/portada-ie.png')}}" alt="Inyección electrónica">
             </div>                
         </div>
     </section>
@@ -105,8 +105,8 @@
                 </div>
             </div>
             <div class="grid grid-cols-2 gap-4 mt-8">
-                <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+                <img class="w-full rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/demo-ie.png')}}" alt="Inyección electrónica">
+                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/demo-abs.png')}}" alt="abs">
             </div>
         </div>
     </section>
@@ -400,16 +400,7 @@
     </div>
   </section>
   
-    <section class="bg-white dark:bg-gray-900 dark:bg-gray-800">
-        <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
-            <div class="max-w-screen-lg text-gray-500 sm:text-lg dark:text-gray-400">
-                <h2 class="mb-4 text-4xl font-bold text-gray-900 dark:text-white">Titulo pendiente <span class="font-extrabold">SENZOR</span> titulo pendiente</h2>
-                <p class="mb-4 font-light">Informacion pendiente - Informacion pendiente - Informacion pendiente - Informacion pendiente - Informacion pendiente - Informacion pendiente - Informacion pendiente - Informacion pendiente - Informacion pendiente - Informacion pendiente - Informacion pendiente - Informacion pendiente - Informacion pendiente - Informacion pendiente - Informacion pendiente</p>
-                <p class="mb-4 font-medium">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima maxime accusantium eum sit quas. Numquam, adipisci quas. Ad odit, accusamus commodi suscipit dolore temporibus blanditiis reprehenderit sit doloremque, in quae?</p>
 
-            </div>
-        </div>
-      </section>
 </body>
 </html>
 </x-app-layout>
