@@ -46,3 +46,7 @@ Route::get('presenciales/inyeccion-electronica', function(){
 Route::get('presenciales/electricidad-basica', function(){
     return view('presenciales.electricidad-basica');
 })->name('electricidad-basica');
+
+Route::get('presenciales/alto-rendimiento', function(){
+    return view('presenciales.alto-rendimiento');
+})->name('alto-rendimiento');

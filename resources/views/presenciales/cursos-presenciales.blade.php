@@ -37,7 +37,7 @@
                   <h4 class="text-2xl font-semibold text-cyan-900">Curso Alto Cilindraje.</h4>
                   <p class="text-gray-600">Laborum saepe laudantium in, voluptates ex placeat quo harum aliquam totam, doloribus eum impedit atque! Temporibus...</p>
                 </div>
-                <a href="{{route('inyeccion-electronica')}}" class="w-full flex items-center justify-center p-1 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black">Quiero Saber Mas!</a>
+                <a href="{{route('alto-rendimiento')}}" class="w-full flex items-center justify-center p-1 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black">Quiero Saber Mas!</a>
               </div>
             </div>
           </div>

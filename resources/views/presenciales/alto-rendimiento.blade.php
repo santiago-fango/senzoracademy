@@ -4,7 +4,7 @@
     <section class="bg-white dark:bg-gray-900">
         <div class="grid max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12">
             <div class="mr-auto place-self-center lg:col-span-7">
-                <h1 class="max-w-2xl mb-4 text-4xl font-extrabold leading-none md:text-5xl xl:text-6xl dark:text-white">Curso de Inyección Electrónica</h1>
+                <h1 class="max-w-2xl mb-4 text-4xl font-extrabold leading-none md:text-5xl xl:text-6xl dark:text-white">Curso de Preparación Electrónica en Motocicletas de Alto Rendimiento y Competición.</h1>
                 <p class="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">Aprende todo lo que tienes que saber sobre Inyección Electrónica Con nosotros de manera <span class="font-extrabold">totalmente presencial</span></p>
                 <a href="https://senzoracademy.com/cursos/curso-de-inyeccion-electronica" class="inline-flex items-center justify-center px-5 py-3 mr-3 text-base font-medium text-center text-white rounded-lg bg-red-700 hover:bg-black focus:ring-4 focus:ring-red-300 dark:focus:ring-red-900">
                     Inicia Ahora!
@@ -134,7 +134,7 @@
       <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
           <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
               <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Introducción a la Electrónica</h2>
-              <div>
+              <div class="grid grid-cols-2 gap-4">
                   <ul class="px-2" style="list-style-type: circle;">
                       <li>Simbología</li>
                       <li>Conceptos básicos de electrónica</li>
@@ -173,7 +173,7 @@
     <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
         <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
             <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Alimentación Electrónica</h2>
-            <div>
+            <div class="grid grid-cols-2 gap-4">
                 <ul class="px-2" style="list-style-type: circle;">
                     <li>Medida estequiométrica A/C</li>
                     <li>Emisiones</li>
@@ -217,7 +217,7 @@
     <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
         <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
             <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Válvula De Mínima ISC O IAC</h3>
-            <div>
+            <div class="grid grid-cols-2 gap-4">
                 <ul class="px-2" style="list-style-type: circle;">
                     <li>Tipos</li>
                     <li>Funcionamiento-mantenimiento</li>
@@ -253,7 +253,7 @@
     <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
         <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
             <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Bomba De Combustible</h3>
-            <div>
+            <div class="grid grid-cols-2 gap-4">
                 <ul class="px-2" style="list-style-type: circle;">
                     <li>Clases y funcionamiento</li>
                     <li>Partes de la bomba de combustible</li>
@@ -293,7 +293,7 @@
     <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
         <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
             <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Escáner</h3>
-            <div>
+            <div class="grid grid-cols-2 gap-4">
                 <ul class="px-2" style="list-style-type: circle;">
                     <li>Sistema de diagnostico</li>
                     <li>Códigos de falla</li>
@@ -333,7 +333,7 @@
     <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
         <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
             <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Emisiones Y Catalizadores</h3>
-            <div>
+            <div class="grid grid-cols-2 gap-4">
                 <ul class="px-2" style="list-style-type: circle;">
                     <li>Función y tipos de catalizadores</li>
                     <li>Válvula EGR-EXUP</li>
@@ -368,7 +368,7 @@
     <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
         <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
             <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Sistemas De Frenos ABS</h3>
-            <div>
+            <div class="grid grid-cols-2 gap-4">
                 <ul class="px-2" style="list-style-type: circle;">
                     <li>Tipos y funcionamiento</li>
                     <li>Seguridad</li>
