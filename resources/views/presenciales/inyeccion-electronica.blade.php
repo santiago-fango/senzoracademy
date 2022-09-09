@@ -13,15 +13,15 @@
                 
             </div>
             <div class="hidden lg:mt-0 lg:col-span-5 lg:flex">
-                <img src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/phone-mockup.png" alt="mockup">
+                <img src="url({{asset('img/presenciales/inyeccion-electronica/portada-ie.png')}});" alt="mockup">
             </div>                
         </div>
     </section>
 
     <section class="relative  bg-white">
         <div class="relative pt-16 pb-32 flex content-center items-center justify-center min-h-screen-75">
-                <div class="absolute top-0 w-full h-full bg-center bg-cover" style="background-image: url({{asset('img/presenciales/hero-ie.png')}});">
-                  <span id="blackOverlay" class="w-full h-full absolute opacity-75 bg-black"></span>
+                <div class="absolute top-0 w-full h-full bg-center bg-cover" style="background-image: url({{asset('img/presenciales/inyeccion-electronica/hero-ie.png')}});">
+                  <span id="blackOverlay" class="w-full h-full absolute opacity-40 bg-black"></span>
                 </div>
                 <div class="container relative mx-auto">
                   <div class="items-center flex flex-wrap">
