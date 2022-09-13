@@ -55,7 +55,7 @@
                 </div>
             </div>
             
-            <div class="flex items-center w-full max-w-md px-6 mx-auto lg:w-2/6" style="background-image: url(https://senzoracademy.com/img/admin/inicio-sesion-registro.png)">
+            <div class="flex items-center w-full max-w-md px-6 mx-auto lg:w-2/6 bg-contain" style="background-image: url(https://senzoracademy.com/img/admin/inicio-sesion-registro.png)">
                 <div class="flex-1">
 
                     <div class="flex items-center justify-center">
