@@ -50,17 +50,12 @@
     
     <div class="bg-white dark:bg-gray-900">
         <div class="flex justify-center h-screen">
-            <div class="hidden bg-cover lg:block lg:w-2/3" style="background-image: url({{asset('img/admin/Inicio-sesion.png')}})">
+            <div class="hidden bg-contain lg:block lg:w-2/3" style="background-image: url(https://senzoracademy.com/img/admin/portada-inicio-sesion.png)">
                 <div class="flex items-center h-full px-20 bg-gray-900 bg-opacity-70">
-                    <div>
-                        <h2 class="text-4xl font-bold text-white">Senzor</h2>
-                        
-                        <p class="max-w-xl mt-3 text-gray-300">Lorem ipsum dolor sit, amet consectetur adipisicing elit. In autem ipsa, nulla laboriosam dolores, repellendus perferendis libero suscipit nam temporibus molestiae</p>
-                    </div>
                 </div>
             </div>
             
-            <div class="flex items-center w-full max-w-md px-6 mx-auto lg:w-2/6">
+            <div class="flex items-center w-full max-w-md px-6 mx-auto lg:w-2/6" style="background-image: url(https://senzoracademy.com/img/admin/inicio-sesion-registro.png)">
                 <div class="flex-1">
 
                     <div class="flex items-center justify-center">
