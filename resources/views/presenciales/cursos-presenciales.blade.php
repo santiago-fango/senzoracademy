@@ -3,7 +3,7 @@
 <body>
     <div class="grid gap-12 lg:grid-cols-2 lg:p-6 p-2">
         <div class="p-1 rounded-xl group sm:flex space-x-6 bg-white bg-opacity-50 shadow-xl hover:rounded-2xl">
-          <img src="https://cdn.pixabay.com/photo/2014/07/31/23/37/motorbike-407186_960_720.jpg" alt="inyeccionelectronica" loading="lazy" width="1000" height="667" class="h-56 sm:h-full w-full sm:w-5/12 object-cover object-top rounded-lg transition duration-500 group-hover:rounded-xl">
+          <img src="{{asset('img/presenciales/portada-inyeccion-electronica-presencial.png')}}" alt="inyeccionelectronica" loading="lazy" width="1000" height="667" class="h-56 sm:h-full w-full sm:w-5/12 object-cover object-top rounded-lg transition duration-500 group-hover:rounded-xl">
           <div class="sm:w-7/12 pl-0 p-5">
             <div class="space-y-2">
               <div class="space-y-4">
@@ -16,7 +16,7 @@
         </div>
         <div>
           <div class="p-1 rounded-xl group sm:flex space-x-6 bg-white bg-opacity-50 shadow-xl hover:rounded-2xl">
-            <img src="https://cdn.pixabay.com/photo/2015/09/20/12/18/electric-948208_960_720.jpg" alt="Electricidad Basica" loading="lazy" width="1000" height="667" class="h-56 sm:h-full w-full sm:w-5/12 object-cover object-top rounded-lg transition duration-500 group-hover:rounded-xl">
+            <img src="{{asset('img/presenciales/portada-electricidad-en-motocicletas-presencial.png')}}" alt="Electricidad Basica" loading="lazy" width="1000" height="667" class="h-56 sm:h-full w-full sm:w-5/12 object-cover object-top rounded-lg transition duration-500 group-hover:rounded-xl">
             <div class="sm:w-7/12 pl-0 p-5">
               <div class="space-y-2">
                 <div class="space-y-4">
