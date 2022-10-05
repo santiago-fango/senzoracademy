@@ -105,8 +105,8 @@
                 </div>
             </div>
             <div class="grid grid-cols-2 gap-4 mt-8">
-                <img class="w-full rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/demo-ie.png')}}" alt="Inyección electrónica">
-                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/demo-abs.png')}}" alt="abs">
+                <img class="w-full rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/pruebas-de-estado-mecanico/prueba-de-compresion.png')}}" alt="Inyección electrónica">
+                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/pruebas-de-estado-mecanico/prueba-inyector.png')}}" alt="abs">
             </div>
         </div>
     </section>
@@ -114,8 +114,8 @@
     <section class="bg-white dark:bg-gray-900">
         <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
             <div class="grid grid-cols-2 gap-4 mt-8">
-                <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+                <img class="w-full rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/herramientas-de-medicion/multimetro.png')}}" alt="office content 1">
+                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/herramientas-de-medicion/osciloscopio.png')}}" alt="office content 2">
             </div>
             <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
                 <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Herramientas de Medición</h2>
@@ -146,8 +146,8 @@
               </div>
           </div>
           <div class="grid grid-cols-2 gap-4 mt-8">
-              <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-              <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+              <img class="w-full rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/introduccion-a-la-electronica/electronica.png')}}" alt="office content 1">
+              <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/introduccion-a-la-electronica/ohm.png')}}" alt="office content 2">
           </div>
       </div>
   </section>
@@ -155,8 +155,8 @@
   <section class="bg-white dark:bg-gray-900">
       <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
           <div class="grid grid-cols-2 gap-4 mt-8">
-              <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-              <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+              <img class="w-full rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/introduccion-a-la-inyeccion-electronica/diagnostico.png')}}" alt="office content 1">
+              <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/introduccion-a-la-inyeccion-electronica/escaner.png')}}" alt="office content 2">
           </div>
           <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
               <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Introducción a la Inyección Electrónica</h2>
@@ -183,8 +183,8 @@
             </div>
         </div>
         <div class="grid grid-cols-2 gap-4 mt-8">
-            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+            <img class="w-full rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/alimentacion-electronica/check-engine.png')}}" alt="office content 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/alimentacion-electronica/emisiones.png')}}" alt="office content 2">
         </div>
     </div>
   </section>
@@ -192,8 +192,8 @@
   <section class="bg-white dark:bg-gray-900">
     <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
         <div class="grid grid-cols-2 gap-4 mt-8">
-            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+            <img class="w-full rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/sensores/map.png')}}" alt="office content 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/sensores/up.png')}}" alt="office content 2">
         </div>
         <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
             <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Sensores</h2>
@@ -226,8 +226,8 @@
             </div>
         </div>
         <div class="grid grid-cols-2 gap-4 mt-8">
-            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+            <img class="w-full rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/valvula-de-minima/minima1.png')}}" alt="office content 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/valvula-de-minima/minima2.png')}}" alt="office content 2">
         </div>
     </div>
   </section>
@@ -235,8 +235,8 @@
   <section class="bg-white dark:bg-gray-900">
     <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
         <div class="grid grid-cols-2 gap-4 mt-8">
-            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+            <img class="w-full rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/cuerpo-de-aceleracion/mariposa1.png')}}" alt="office content 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/cuerpo-de-aceleracion/mariposa2.png')}}" alt="office content 2">
         </div>
         <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
             <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Cuerpo De Aceleración</h3>
@@ -265,8 +265,8 @@
             </div>
         </div>
         <div class="grid grid-cols-2 gap-4 mt-8">
-            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+            <img class="w-full rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/bomba-de-combustible/inyector.png')}}" alt="office content 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/bomba-de-combustible/presion.png')}}" alt="office content 2">
         </div>
     </div>
   </section>
@@ -274,8 +274,8 @@
   <section class="bg-white dark:bg-gray-900">
     <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
         <div class="grid grid-cols-2 gap-4 mt-8">
-            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+            <img class="w-full rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/sensores-de-oxigeno/herramienta1.png')}}" alt="vacuometro 1  ">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/sensores-de-oxigeno/herramienta2.png')}}" alt="vacuometro 2">
         </div>
         <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
             <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Sensores De Oxigeno</h3>
@@ -304,8 +304,8 @@
             </div>
         </div>
         <div class="grid grid-cols-2 gap-4 mt-8">
-            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+            <img class="w-full rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/escaner/escaner1.png')}}" alt="Escaner 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/escaner/escaner2.png')}}" alt="Escanert 2">
         </div>
     </div>
   </section>
@@ -313,8 +313,8 @@
   <section class="bg-white dark:bg-gray-900">
     <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
         <div class="grid grid-cols-2 gap-4 mt-8">
-            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+            <img class="w-full rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/inyectores/lavado1.png')}}" alt="Lavadeo de Inyectores 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/inyectores/lavado2.png')}}" alt="Lavadeo de Inyectores 2">
         </div>
         <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
             <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Inyectores</h3>
@@ -377,8 +377,8 @@
             </div>
         </div>
         <div class="grid grid-cols-2 gap-4 mt-8">
-            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+            <img class="w-full rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/sistema-de-frenos-abs/abs1.png')}}" alt="Frenos ABS 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/sistema-de-frenos-abs/abs2.png')}}" alt="Frenos ABS 2">
         </div>
     </div>
   </section>
@@ -386,8 +386,8 @@
   <section class="bg-white dark:bg-gray-900">
     <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
         <div class="grid grid-cols-2 gap-4 mt-8">
-            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+            <img class="w-full rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/sincronizacion/sincronizacion1.png')}}" alt="Senzor Pro 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/sincronizacion/sincronizacion2.png')}}" alt="Senzor Pro 2">
         </div>
         <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
             <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Sincronización</h3>

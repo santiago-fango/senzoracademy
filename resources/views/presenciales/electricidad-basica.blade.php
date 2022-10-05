@@ -219,16 +219,6 @@
       </div>
   </section>
 
-    <section class="bg-white dark:bg-gray-900 dark:bg-gray-800">
-        <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
-            <div class="max-w-screen-lg text-gray-500 sm:text-lg dark:text-gray-400">
-                <h2 class="mb-4 text-4xl font-bold text-gray-900 dark:text-white">Titulo pendiente <span class="font-extrabold">SENZOR</span> titulo pendiente</h2>
-                <p class="mb-4 font-light">Informacion pendiente - Informacion pendiente - Informacion pendiente - Informacion pendiente - Informacion pendiente - Informacion pendiente - Informacion pendiente - Informacion pendiente - Informacion pendiente - Informacion pendiente - Informacion pendiente - Informacion pendiente - Informacion pendiente - Informacion pendiente - Informacion pendiente</p>
-                <p class="mb-4 font-medium">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima maxime accusantium eum sit quas. Numquam, adipisci quas. Ad odit, accusamus commodi suscipit dolore temporibus blanditiis reprehenderit sit doloremque, in quae?</p>
-
-            </div>
-        </div>
-      </section>
 </body>
 </html>
 </x-app-layout>
