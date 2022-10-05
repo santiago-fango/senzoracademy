@@ -121,7 +121,7 @@
                 <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Herramientas de Medición</h2>
                 <ul class="px-2" style="list-style-type: circle;">
                     <li>Escala de Medición</li>
-                    <li>Mulrímetro</li>
+                    <li>Multímetro</li>
                     <li>Osciloscopio</li>
                     <li>Pinza amperimétrica</li>
                     <li>Punta lógica</li>
