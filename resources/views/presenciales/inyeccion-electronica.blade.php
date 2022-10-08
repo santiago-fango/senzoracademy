@@ -352,7 +352,7 @@
     <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
         <div class="grid grid-cols-2 gap-4 mt-8">
             <img class="w-full rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/sistemas-de-inyeccion-sin-bateria/sinbateria1.png')}}" alt="Sistemas De Inyección Sin Batería 1">
-            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/sistemas-de-inyeccion-sin-bateria/sinbateria1.png')}}" alt="Sistemas De Inyección Sin Batería 2">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/inyeccion-electronica/sistemas-de-inyeccion-sin-bateria/sinbateria2.png')}}" alt="Sistemas De Inyección Sin Batería 2">
         </div>
         <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
             <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Sistemas De Inyección Sin Batería</h3>
