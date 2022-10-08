@@ -30,7 +30,7 @@
         </div>
         <div>
           <div class="p-1 rounded-xl group sm:flex space-x-6 bg-white bg-opacity-50 shadow-xl hover:rounded-2xl">
-            <img src="{{asset('img/presenciales/portada-mecanica-de-alto-cilindraje-presencial.png.png')}}" alt="Mecanica de alto cilindraje" loading="lazy" width="1000" height="667" class="h-56 sm:h-full w-full sm:w-5/12 object-cover object-top rounded-lg transition duration-500 group-hover:rounded-xl">
+            <img src="{{asset('img/presenciales/portada-mecanica-de-alto-cilindraje-presencial.png')}}" alt="Mecanica de alto cilindraje" loading="lazy" width="1000" height="667" class="h-56 sm:h-full w-full sm:w-5/12 object-cover object-top rounded-lg transition duration-500 group-hover:rounded-xl">
             <div class="sm:w-7/12 pl-0 p-5">
               <div class="space-y-2">
                 <div class="space-y-4">
