@@ -53,8 +53,8 @@ Route::get('presenciales/alto-rendimiento', function(){
 
 Route::get('presenciales/preparacion-electronica', function(){
     return view('presenciales.preparacion-electronica');
-})->name('alto-rendimiento');
+})->name('preparacion-electronica');
 
 Route::get('presenciales/vehiculos-electricos', function(){
     return view('presenciales.vehiculos-electricos');
-})->name('alto-rendimiento');
+})->name('vehiculos-electricos');
