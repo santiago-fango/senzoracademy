@@ -50,3 +50,11 @@ Route::get('presenciales/electricidad-basica', function(){
 Route::get('presenciales/alto-rendimiento', function(){
     return view('presenciales.alto-rendimiento');
 })->name('alto-rendimiento');
+
+Route::get('presenciales/preparacion-electronica', function(){
+    return view('presenciales.preparacion-electronica');
+})->name('alto-rendimiento');
+
+Route::get('presenciales/vehiculos-electricos', function(){
+    return view('presenciales.vehiculos-electricos');
+})->name('alto-rendimiento');

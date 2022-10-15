@@ -14,6 +14,7 @@
             </div>
           </div>
         </div>
+
         <div>
           <div class="p-1 rounded-xl group sm:flex space-x-6 bg-white bg-opacity-50 shadow-xl hover:rounded-2xl">
             <img src="{{asset('img/presenciales/portada-electricidad-en-motocicletas-presencial.png')}}" alt="Electricidad Basica" loading="lazy" width="1000" height="667" class="h-56 sm:h-full w-full sm:w-5/12 object-cover object-top rounded-lg transition duration-500 group-hover:rounded-xl">
@@ -28,6 +29,7 @@
             </div>
           </div>
         </div>
+
         <div>
           <div class="p-1 rounded-xl group sm:flex space-x-6 bg-white bg-opacity-50 shadow-xl hover:rounded-2xl">
             <img src="{{asset('img/presenciales/portada-mecanica-de-alto-cilindraje-presencial.png')}}" alt="Mecanica de alto cilindraje" loading="lazy" width="1000" height="667" class="h-56 sm:h-full w-full sm:w-5/12 object-cover object-top rounded-lg transition duration-500 group-hover:rounded-xl">
@@ -35,7 +37,22 @@
               <div class="space-y-2">
                 <div class="space-y-4">
                   <h4 class="text-2xl font-semibold text-cyan-900">Curso Alto Cilindraje.</h4>
-                  <p class="text-gray-600">curso de Preparación Electrónica en Motocicletas de Alto Rendimiento y Competición, brindado de manera presencial en nuestra sede SENZOR ACADEMY.</p>
+                  <p class="text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum tempora amet nisi repellendus ut ipsa, corporis voluptates dolores adipisci id vero odio enim impedit distinctio quisquam? Omnis esse neque ratione.</p>
+                </div>
+                <a href="{{route('alto-rendimiento')}}" class="w-full flex items-center justify-center p-1 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black">Quiero Saber Mas!</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div>
+          <div class="p-1 rounded-xl group sm:flex space-x-6 bg-white bg-opacity-50 shadow-xl hover:rounded-2xl">
+            <img src="https://images.unsplash.com/photo-1603465835214-099400dc6988?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" alt="Preparacion electronica alto rendimiento" loading="lazy" width="1000" height="667" class="h-56 sm:h-full w-full sm:w-5/12 object-cover object-top rounded-lg transition duration-500 group-hover:rounded-xl">
+            <div class="sm:w-7/12 pl-0 p-5">
+              <div class="space-y-2">
+                <div class="space-y-4">
+                  <h4 class="text-2xl font-semibold text-cyan-900">Preparación Electrónica en Motocicletas de Alto Rendimiento y Competición.</h4>
+                  <p class="text-gray-600">Curso de Preparación Electrónica en Motocicletas de Alto Rendimiento y Competición, brindado de manera presencial en nuestra sede SENZOR ACADEMY.</p>
                 </div>
                 <a href="{{route('alto-rendimiento')}}" class="w-full flex items-center justify-center p-1 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black">Quiero Saber Mas!</a>
               </div>
@@ -43,5 +60,21 @@
           </div>
         </div>
     </div>
+
+    <div>
+      <div class="p-1 rounded-xl group sm:flex space-x-6 bg-white bg-opacity-50 shadow-xl hover:rounded-2xl">
+        <img src="https://images.unsplash.com/photo-1596213812143-ff89bd9ddecd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80" alt="Vehiculos Electricos" loading="lazy" width="1000" height="667" class="h-56 sm:h-full w-full sm:w-5/12 object-cover object-top rounded-lg transition duration-500 group-hover:rounded-xl">
+        <div class="sm:w-7/12 pl-0 p-5">
+          <div class="space-y-2">
+            <div class="space-y-4">
+              <h4 class="text-2xl font-semibold text-cyan-900">Vehículos Eléctricos (Motocicleta, Bicicleta y Patinetas)</h4>
+              <p class="text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum quis, quibusdam eligendi hic quaerat maxime nulla consequuntur ut dignissimos, incidunt aut exercitationem consectetur, natus eos iure omnis fugit corporis saepe!</p>
+            </div>
+            <a href="{{route('alto-rendimiento')}}" class="w-full flex items-center justify-center p-1 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black">Quiero Saber Mas!</a>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
 </body>
 </x-app-layout>

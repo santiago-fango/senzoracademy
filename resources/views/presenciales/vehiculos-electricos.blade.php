@@ -4,9 +4,9 @@
     <section class="bg-white dark:bg-gray-900">
         <div class="grid max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12">
             <div class="mr-auto place-self-center lg:col-span-7">
-                <h1 class="max-w-2xl mb-4 text-4xl font-extrabold leading-none md:text-5xl xl:text-6xl dark:text-white">Curso de Alto Cilindraje.</h1>
-                <p class="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">Aprende todo lo que tienes que saber sobre Inyección Electrónica en Alto Cilindraje Con nosotros de manera <span class="font-extrabold">totalmente presencial</span></p>
-                <a href="https://senzoracademy.com/cursos/curso-de-inyeccion-electronica" class="inline-flex items-center justify-center px-5 py-3 mr-3 text-base font-medium text-center text-white rounded-lg bg-red-700 hover:bg-black focus:ring-4 focus:ring-red-300 dark:focus:ring-red-900">
+                <h1 class="max-w-2xl mb-4 text-4xl font-extrabold leading-none md:text-5xl xl:text-6xl dark:text-white">Curso de Vehículos Eléctricos (Motocicleta, Bicicleta y Patinetas)</h1>
+                <p class="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">Aprende todo lo que tienes que saber sobre Vehículos Eléctricos Con nosotros de manera <span class="font-extrabold">totalmente presencial</span></p>
+                <a href="#" class="inline-flex items-center justify-center px-5 py-3 mr-3 text-base font-medium text-center text-white rounded-lg bg-red-700 hover:bg-black focus:ring-4 focus:ring-red-300 dark:focus:ring-red-900">
                     Inicia Ahora!
                     <svg class="w-5 h-5 ml-2 -mr-1" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
                 </a>
@@ -95,12 +95,13 @@
     <section class="bg-white dark:bg-gray-900">
         <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
             <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
-                <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Introducción a Metrología Mecánica</h2>
-                <div class="grid grid-cols-2 gap-4">
+                <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Introducción a los Vehículos Eléctricos</h2>
+                <div>
                     <ul class="px-2" style="list-style-type: circle;">
-                        <li>Definición</li>
-                        <li>Patrón</li>
-                        <li>Sistema de unidades de medidas</li>
+                        <li>Nuevas Fuentes de Energía</li>
+                        <li>Historia de las Motos Eléctricas</li>
+                        <li>Componentes de las Motos Eléctricas</li>
+                        <li>Ventajas y Desventajas de las Motos Eléctricas</li>
                     </ul>
                 </div>
             </div>
@@ -118,23 +119,15 @@
                 <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
             </div>
             <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
-                <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Tablas de Torque y Conversión de Unidades</h2>
+                <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Introducción A La Electrónica</h2>
                 <ul class="px-2" style="list-style-type: circle;">
-                    <li>Interpretación de manuales</li>
-                    <li>Lectura de números decimales</li>
-                    <li>Prefijos</li>
-                    <li>Simbología</li>
-                    <li>Siglas</li>
-                    <li>Unidades de masa</li>
-                    <li>Unidades de volumen</li>
-                    <li>Mm y Pulgadas</li>
-                    <li>Unidad par</li>
-                    <li>Unidad de longitud</li>
-                    <li>Unidad de presión</li>
-                    <li>Unidad de fuerza</li>
-                    <li>Unidad de potencia</li>
-                    <li>Unidad de temperatura</li>
-                    <li>Unidad de velocidad</li>
+                    <li>Concepto, Materia, Átomo, Corrientes Eléctricas (Definición y Señal)</li>
+                    <li>Corriente Alterna</li>
+                    <li>Corriente Directa</li>
+                    <li>Voltaje</li>
+                    <li>Resistencia</li>
+                    <li>Conductividad</li>
+                    <li>Bobinas</li>
                 </ul>
             </div>
         </div>
@@ -143,15 +136,14 @@
     <section class="bg-white dark:bg-gray-900">
       <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
           <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
-              <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Magnitudes Lineales y Angulares</h2>
-              <div class="grid grid-cols-2 gap-4">
+              <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Herramientas Especializadas de Diagnóstico</h2>
+              <div>
                   <ul class="px-2" style="list-style-type: circle;">
-                    <li>Fundamento básico</li>
-                    <li>Factores que afectan una medición</li>
-                    <li>Recursos metrológicos</li>
-                    <li>Escalas VERNIER</li>
-                    <li>Apreciación o aproximación</li>
-                    <li>Errores en la medición</li>
+                    <li>Uso del Multímetro</li>
+                    <li>Uso de Probador de Motores</li>
+                    <li>Uso de Probador de Controladores</li>
+                    <li>Uso de Probador de Accesorios Eléctricos</li>
+                    <li>Uso de Medidor de Baterías</li>
                   </ul>
               </div>
           </div>
@@ -163,75 +155,95 @@
   </section>
 
   <section class="bg-white dark:bg-gray-900">
-      <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
-          <div class="grid grid-cols-2 gap-4 mt-8">
-              <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-              <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
-          </div>
-          <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
-              <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Instrumentos de Medida</h2>
-              <ul class="px-2" style="list-style-type: circle;">
-                <li>Calibre de cursor PIE DE REY</li>
-                <li>Micrómetro de tornillo PALMER</li>
-                <li>Dispositivo de ajuste</li>
-                <li>Micrómetro con NINIO incorporado</li>
-                <li>El Goniómetro</li>
-                <li>Compresometro</li>
-                <li>Probador de fugas de cilindro</li>
-                <li>Medidor de presión de aceite</li>
-                <li>Probador de fugas de sistema de refrigeración</li>
-                <li>Vacuómetro</li>
-                <li>Comparador de caratula</li>
-                <li>Alexómetro</li>
-                <li>Regla de planitud</li>
-                <li>Torquímetros (Angular, Análogo y Trinquete)</li>
-                <li>Calibrador de holguras</li>
-                <li>Plastigauge</li>
-              </ul>
-          </div>
-      </div>
-  </section>
-
-  <section class="bg-white dark:bg-gray-900">
-    <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
-        <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
-            <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Toleracias</h2>
-            <div class="grid grid-cols-2 gap-4">
-                <ul class="px-2" style="list-style-type: circle;">
-                    <li>Toleracias dimensionales</li>
-                    <li>Alcance</li>
-                    <li>Tipos de toleracia</li>
-                    <li>Normalización de las tolerancias</li>
-                    <li>Escrituras de cotas normalizada</li>
-                </ul>
-            </div>
-        </div>
-        <div class="grid grid-cols-2 gap-4 mt-8">
-            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
-        </div>
-    </div>
-  </section>
-
-  <section class="bg-white dark:bg-gray-900">
     <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
         <div class="grid grid-cols-2 gap-4 mt-8">
             <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
             <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
         </div>
         <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
-            <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Parametros Tecnicos del Motor</h2>
+            <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Motores</h2>
             <ul class="px-2" style="list-style-type: circle;">
-                <li>Cilindrada</li>
-                <li>Relación de compresión</li>
-                <li>PAR motor</li>
-                <li>Potencia</li>
-                <li>Consumo específico</li>
-                <li>Rendimiento</li>
-                <li>Curvas características</li>
+                <li>Tipos de Motores</li>
+                <li>Tipos de Imanes</li>
+                <li>Fases de Motor</li>
+                <li>Funcionamiento de Motor</li>
+                <li>Componentes de Motor</li>
+                <li>Diagnóstico, Reparación de Motores (Cambios de Sensores Efecto HALL)</li>
             </ul>
         </div>
     </div>
+</section>
+
+<section class="bg-white dark:bg-gray-900">
+  <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+      <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+          <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Baterías</h2>
+          <div>
+              <ul class="px-2" style="list-style-type: circle;">
+                <li>Tipos de Baterías (Litio - Plomo)</li>
+                <li>Parámetros de las Baterías</li>
+                <li>Componentes de la Batería (Celdas - BMS)</li>
+                <li>Diagnóstico y Reparación de Baterías</li>
+                <li>Conexión e Instalación</li>
+              </ul>
+          </div>
+      </div>
+      <div class="grid grid-cols-2 gap-4 mt-8">
+          <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
+          <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+      </div>
+  </div>
+</section>
+
+<section class="bg-white dark:bg-gray-900">
+  <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+      <div class="grid grid-cols-2 gap-4 mt-8">
+          <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
+          <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+      </div>
+      <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+          <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Cargadores</h2>
+          <ul class="px-2" style="list-style-type: circle;">
+              <li>Diagnóstico y Reparación de Cargadores</li>
+          </ul>
+      </div>
+  </div>
+</section>
+
+<section class="bg-white dark:bg-gray-900">
+<div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+    <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+        <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Controladores</h2>
+        <div>
+            <ul class="px-2" style="list-style-type: circle;">
+              <li>Diagnóstico de Controladores</li>
+              <li>Principio de Funcionamiento</li>
+              <li>Descripción de Componentes de Controlador</li>
+            </ul>
+        </div>
+    </div>
+    <div class="grid grid-cols-2 gap-4 mt-8">
+        <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
+        <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+    </div>
+</div>
+</section>
+
+<section class="bg-white dark:bg-gray-900">
+  <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+      <div class="grid grid-cols-2 gap-4 mt-8">
+          <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
+          <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+      </div>
+      <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+          <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Accesorios y Componentes de las Motocicletas Eléctricas</h2>
+          <ul class="px-2" style="list-style-type: circle;">
+              <li>Acelerador</li>
+              <li>Sensores de Frenado</li>
+              <li>Sensor de Pedaleo Asistido</li>
+          </ul>
+      </div>
+  </div>
   </section>
 
 </body>
