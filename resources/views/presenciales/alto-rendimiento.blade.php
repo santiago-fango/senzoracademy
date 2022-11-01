@@ -13,14 +13,14 @@
                 
             </div>
             <div class="hidden lg:mt-0 lg:col-span-5 lg:flex">
-                <img src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/phone-mockup.png" alt="mockup">
+                <img src="{{asset('img/presenciales/alto-cilindraje/portada-ac.png')}}" alt="Portada Alto Cilindraje">
             </div>                
         </div>
     </section>
 
     <section class="relative  bg-white">
         <div class="relative pt-16 pb-32 flex content-center items-center justify-center min-h-screen-75">
-                <div class="absolute top-0 w-full h-full bg-center bg-cover" style="background-image: url('https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1267&amp;q=80');">
+                <div class="absolute top-0 w-full h-full bg-center bg-cover" style="background-image: url({{asset('img/presenciales/alto-cilindraje/hero-ac.png')}});">
                   <span id="blackOverlay" class="w-full h-full absolute opacity-75 bg-black"></span>
                 </div>
                 <div class="container relative mx-auto">
@@ -105,8 +105,8 @@
                 </div>
             </div>
             <div class="grid grid-cols-2 gap-4 mt-8">
-                <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+                <img class="w-full rounded-lg" src="{{asset('img/presenciales/alto-cilindraje/metrologia/1.png')}}" alt="office content 1">
+                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/alto-cilindraje/metrologia/2.png')}}" alt="office content 2">
             </div>
         </div>
     </section>
@@ -114,8 +114,8 @@
     <section class="bg-white dark:bg-gray-900">
         <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
             <div class="grid grid-cols-2 gap-4 mt-8">
-                <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+                <img class="w-full rounded-lg" src="{{asset('img/presenciales/alto-cilindraje/tablas/3.png')}}" alt="office content 1">
+                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/alto-cilindraje/tablas/4.png')}}" alt="office content 2">
             </div>
             <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
                 <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Tablas de Torque y Conversión de Unidades</h2>
@@ -156,8 +156,8 @@
               </div>
           </div>
           <div class="grid grid-cols-2 gap-4 mt-8">
-              <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-              <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+              <img class="w-full rounded-lg" src="{{asset('img/presenciales/alto-cilindraje/magnitudes/5.png')}}" alt="office content 1">
+              <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/alto-cilindraje/magnitudes/6.png')}}" alt="office content 2">
           </div>
       </div>
   </section>
@@ -165,8 +165,8 @@
   <section class="bg-white dark:bg-gray-900">
       <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
           <div class="grid grid-cols-2 gap-4 mt-8">
-              <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-              <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+              <img class="w-full rounded-lg" src="{{asset('img/presenciales/alto-cilindraje/instrumentos/7.png')}}" alt="office content 1">
+              <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/alto-cilindraje/instrumentos/8.png')}}" alt="office content 2">
           </div>
           <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
               <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Instrumentos de Medida</h2>
@@ -207,8 +207,8 @@
             </div>
         </div>
         <div class="grid grid-cols-2 gap-4 mt-8">
-            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+            <img class="w-full rounded-lg" src="{{asset('img/presenciales/alto-cilindraje/tolerancias/9.png')}}" alt="office content 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/alto-cilindraje/tolerancias/10.png')}}" alt="office content 2">
         </div>
     </div>
   </section>
@@ -216,8 +216,8 @@
   <section class="bg-white dark:bg-gray-900">
     <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
         <div class="grid grid-cols-2 gap-4 mt-8">
-            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+            <img class="w-full rounded-lg" src="{{asset('img/presenciales/alto-cilindraje/parametros/11.png')}}" alt="office content 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/alto-cilindraje/parametros/12.png')}}" alt="office content 2">
         </div>
         <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
             <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Parametros Tecnicos del Motor</h2>

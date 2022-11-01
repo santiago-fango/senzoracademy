@@ -20,7 +20,7 @@
 
     <section class="relative  bg-white">
         <div class="relative pt-16 pb-32 flex content-center items-center justify-center min-h-screen-75">
-                <div class="absolute top-0 w-full h-full bg-center bg-cover" style="background-image: url{{asset('img/presenciales/electricidad-motocicletas/hero-em.png')}};">
+                <div class="absolute top-0 w-full h-full bg-center bg-cover" style="background-image: url({{asset('img/presenciales/electricidad-motocicletas/hero-em.png')}});">
                   <span id="blackOverlay" class="w-full h-full absolute opacity-75 bg-black"></span>
                 </div>
                 <div class="container relative mx-auto">
@@ -214,7 +214,7 @@
           </div>
           <div class="grid grid-cols-2 gap-4 mt-8">
               <img class="w-full rounded-lg" src="{{asset('img/presenciales/electricidad-motocicletas/sistemas-motocicleta/diagrama1.png')}}" alt="Diagrama 1">
-              <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/electricidad-motocicletas/sistemas-motocicleta/diagrama2.png')}} alt="Diagrama 2">
+              <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/electricidad-motocicletas/sistemas-motocicleta/diagrama2.png')}}" alt="Diagrama 2">
           </div>
       </div>
   </section>
