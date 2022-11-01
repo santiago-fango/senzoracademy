@@ -7,15 +7,15 @@
 
         ],[
             
-            'name' => 'Cursos',
+            'name' => 'Cursos virtuales',
             'route' => route('courses.index'),
             'active' => request()->routeIs('courses.*')
-        ],/*[
+        ],[
             
             'name' => 'Cursos presenciales',
-            'route' => route('pages.cursospresenciales'),
-            'active' => request()->routeIs('pages.cursospresenciales')
-        ]*/
+            'route' => route('presenciales.cursos-presenciales'),
+            'active' => request()->routeIs('presenciales.*')
+        ]
 
     ];   
 @endphp
