@@ -20,7 +20,7 @@
 
     <section class="relative  bg-white">
         <div class="relative pt-16 pb-32 flex content-center items-center justify-center min-h-screen-75">
-                <div class="absolute top-0 w-full h-full bg-center bg-cover" style="background-image: url('https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1267&amp;q=80');">
+                <div class="absolute top-0 w-full h-full bg-center bg-cover" style="background-image: url{{asset('img/presenciales/electricidad-motocicletas/hero-em.png')}};">
                   <span id="blackOverlay" class="w-full h-full absolute opacity-75 bg-black"></span>
                 </div>
                 <div class="container relative mx-auto">
@@ -108,8 +108,8 @@
                 </div>
             </div>
             <div class="grid grid-cols-2 gap-4 mt-8">
-                <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+                <img class="w-full rounded-lg" src="{{asset('img/presenciales/electricidad-motocicletas/estado-mecanico/escaner.png')}}" alt="Escaner">
+                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/electricidad-motocicletas/estado-mecanico/freno.png')}}" alt="Freno">
             </div>
         </div>
     </section>
@@ -117,8 +117,8 @@
     <section class="bg-white dark:bg-gray-900">
         <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
             <div class="grid grid-cols-2 gap-4 mt-8">
-                <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+                <img class="w-full rounded-lg" src="{{asset('img/presenciales/electricidad-motocicletas/introduccion-electronica/fusible.png')}}" alt="Fusible">
+                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/electricidad-motocicletas/introduccion-electronica/pcb.png')}}" alt="PCB">
             </div>
             <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
                 <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Introducción A La Electricidad</h2>
@@ -213,8 +213,8 @@
               </div>
           </div>
           <div class="grid grid-cols-2 gap-4 mt-8">
-              <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-              <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+              <img class="w-full rounded-lg" src="{{asset('img/presenciales/electricidad-motocicletas/sistemas-motocicleta/diagrama1.png')}}" alt="Diagrama 1">
+              <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/electricidad-motocicletas/sistemas-motocicleta/diagrama2.png')}} alt="Diagrama 2">
           </div>
       </div>
   </section>
