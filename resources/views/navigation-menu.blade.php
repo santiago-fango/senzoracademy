@@ -14,7 +14,7 @@
             
             'name' => 'Cursos presenciales',
             'route' => route('cursos-presenciales'),
-            'active' => request()->routeIs('presenciales.*')
+            'active' => request()->routeIs('cursos-presenciales')
         ]
 
     ];   
