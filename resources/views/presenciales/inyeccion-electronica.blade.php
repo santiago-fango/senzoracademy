@@ -46,6 +46,22 @@
         <section class="pb-10 bg-blueGray-200 -mt-24">
                 <div class="container mx-auto px-4">
                   <div class="flex flex-wrap">
+                    
+                    <div class="w-full md:w-4/12 px-4 text-center">
+                        <div class="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg">
+                          <div class="px-4 py-5 flex-auto">
+                            <div class="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-red-400">
+                              <i class="fas fa-clock"></i>
+                            </div>
+                            <h6 class="text-xl font-semibold">Duración</h6>
+                            <p class="mt-2 mb-4 text-blueGray-500">
+                              Con una duracion de 40 Horas el curso de manera presencial
+                              y clases personalizadas
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+
                     <div class="w-full md:w-4/12 px-4 text-center">
                       <div class="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg">
                         <div class="px-4 py-5 flex-auto">
@@ -60,6 +76,7 @@
                         </div>
                       </div>
                     </div>
+
                     <div class="w-full md:w-4/12 px-4 text-center">
                       <div class="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg">
                         <div class="px-4 py-5 flex-auto">
@@ -74,6 +91,7 @@
                         </div>
                       </div>
                     </div>
+
                     <div class=" w-full md:w-4/12 px-4 text-center">
                       <div class="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg">
                         <div class="px-4 py-5 flex-auto">
@@ -88,6 +106,7 @@
                         </div>
                       </div>
                     </div>
+
                   </div>
         </section>
     </section>
