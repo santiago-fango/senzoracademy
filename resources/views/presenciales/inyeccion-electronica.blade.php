@@ -54,9 +54,8 @@
                               <i class="fas fa-clock"></i>
                             </div>
                             <h6 class="text-xl font-semibold">Duración</h6>
-                            <p class="mt-2 mb-4 text-blueGray-500">
-                              Con una duracion de 40 Horas el curso de manera presencial
-                              y clases personalizadas
+                            <p class="mt-2 mb-4 text-blueGray-500 text-5xl font-extrabold">
+                                40 Horas
                             </p>
                           </div>
                         </div>
