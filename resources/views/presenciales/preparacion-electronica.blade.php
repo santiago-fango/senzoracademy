@@ -55,7 +55,7 @@
                             </div>
                             <h6 class="text-xl font-semibold">Duración</h6>
                             <p class="mt-2 mb-4 text-blueGray-500 text-5xl font-extrabold">
-                                40 Horas
+                                30 Horas
                             </p>
                           </div>
                         </div>
