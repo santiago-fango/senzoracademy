@@ -10,7 +10,7 @@
                 <h4 class="text-2xl font-semibold text-black">Curso de Inyección Electrónica</h4>
                 <p class="text-gray-600">Curso especializado en inyección electrónica multimarca (Yamaha, Suzuki, Honda, Kawasaki, Bajaj - Pulsar - Dominar, entre otros) Totalmente presencial.</p>
               </div>
-              <a href="{{route('inyeccion-electronica')}}" class="w-full flex items-center justify-center p-1 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black">Quiero Saber Mas!</a>
+              <a href="{{route('inyeccion-electronica')}}" class="w-full flex items-center justify-center p-1 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black">Quiero saber más!</a>
             </div>
           </div>
         </div>
@@ -21,10 +21,10 @@
             <div class="sm:w-7/12 pl-0 p-5">
               <div class="space-y-2">
                 <div class="space-y-4">
-                  <h4 class="text-2xl font-semibold text-cyan-900">Curso Electricidad Basica.</h4>
+                  <h4 class="text-2xl font-semibold text-cyan-900">Curso Electricidad Basica</h4>
                   <p class="text-gray-600">Aprende todo lo que tienes que saber sobre Electricidad En Motocicletas Con nosotros de manera totalmente presencial</p>
                 </div>
-                <a href="{{route('electricidad-basica')}}" class="w-full flex items-center justify-center p-1 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black">Quiero Saber Mas!</a>
+                <a href="{{route('electricidad-basica')}}" class="w-full flex items-center justify-center p-1 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black">Quiero saber más!</a>
               </div>
             </div>
           </div>
@@ -36,10 +36,10 @@
             <div class="sm:w-7/12 pl-0 p-5">
               <div class="space-y-2">
                 <div class="space-y-4">
-                  <h4 class="text-2xl font-semibold text-cyan-900">Curso Alto Cilindraje.</h4>
+                  <h4 class="text-2xl font-semibold text-cyan-900">Curso Alto Cilindraje</h4>
                   <p class="text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum tempora amet nisi repellendus ut ipsa, corporis voluptates dolores adipisci id vero odio enim impedit distinctio quisquam? Omnis esse neque ratione.</p>
                 </div>
-                <a href="{{route('alto-rendimiento')}}" class="w-full flex items-center justify-center p-1 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black">Quiero Saber Mas!</a>
+                <a href="{{route('alto-rendimiento')}}" class="w-full flex items-center justify-center p-1 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black">Quiero saber más!</a>
               </div>
             </div>
           </div>
@@ -51,10 +51,10 @@
             <div class="sm:w-7/12 pl-0 p-5">
               <div class="space-y-2">
                 <div class="space-y-4">
-                  <h4 class="text-2xl font-semibold text-cyan-900">Preparación Electrónica en Motocicletas de Alto Rendimiento y Competición.</h4>
+                  <h4 class="text-2xl font-semibold text-cyan-900">Preparación Electrónica en Motocicletas de Alto Rendimiento y Competición</h4>
                   <p class="text-gray-600">Curso de Preparación Electrónica en Motocicletas de Alto Rendimiento y Competición, brindado de manera presencial en nuestra sede SENZOR ACADEMY.</p>
                 </div>
-                <a href="{{route('preparacion-electronica')}}" class="w-full flex items-center justify-center p-1 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black">Quiero Saber Mas!</a>
+                <a href="{{route('preparacion-electronica')}}" class="w-full flex items-center justify-center p-1 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black">Quiero saber más!</a>
               </div>
             </div>
           </div>
@@ -69,7 +69,7 @@
                   <h4 class="text-2xl font-semibold text-cyan-900">Vehículos Eléctricos (Motocicleta, Bicicleta y Patinetas)</h4>
                   <p class="text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum quis, quibusdam eligendi hic quaerat maxime nulla consequuntur ut dignissimos, incidunt aut exercitationem consectetur, natus eos iure omnis fugit corporis saepe!</p>
                 </div>
-                <a href="{{route('vehiculos-electricos')}}" class="w-full flex items-center justify-center p-1 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black">Quiero Saber Mas!</a>
+                <a href="{{route('vehiculos-electricos')}}" class="w-full flex items-center justify-center p-1 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black">Quiero saber más!</a>
               </div>
             </div>
           </div>
