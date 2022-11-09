@@ -289,7 +289,7 @@ return [
         ],
         
         [
-            'text' => 'Pendientes de aprovacion',
+            'text' => 'Pendientes de aprobación',
             'route'  => 'admin.courses.index',
             'icon' => 'fas fa-fw fa-user',
         ],
