@@ -231,6 +231,15 @@
           </div>
       </div>
   </section>
+  <section>
+    <div class="rounded-md shadow grid grid-cols-1 gap-4 md:grid-cols-4 p-2">
+      <a href="{{route('inyeccion-electronica')}}" class="items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black md:py-3 md:text-md md:px-5">Inyección Electrónica </a>
+      <a href="{{route('alto-rendimiento')}}" class="items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black md:py-4 md:text-md md:px-5">Alto Cilindraje </a>
+      <a href="{{route('preparacion-electronica')}}" class="items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black md:py-4 md:text-md md:px-5">Preparación Electrónica</a>
+      <a href="{{route('vehiculos-electricos')}}" class="items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black md:py-4 md:text-md md:px-5">Vehículos Eléctricos</a>
+    </div>                                                                                                                                                                                                                                                                                                                                                                        
+  </section>
+
 
 </body>
 </html>
