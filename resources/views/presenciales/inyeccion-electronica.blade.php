@@ -418,11 +418,11 @@
     </div>
   </section>
   <section>
-    <div class="rounded-md shadow">
-      <a href="{{route('electricidad-basica')}}" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black md:py-4 md:text-lg md:px-10"> Curso Electricidad en Motocicletas </a>
-      <a href="{{route('alto-rendimiento')}}" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black md:py-4 md:text-lg md:px-10"> Curso Alto Cilindraje </a>
-      <a href="{{route('preparacion-electronica')}}" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black md:py-4 md:text-lg md:px-10"> Preparación Electrónica en Motocicletas de Alto Rendimiento y Competición </a>
-      <a href="{{route('vehiculos-electricos')}}" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black md:py-4 md:text-lg md:px-10"> Vehículos Eléctricos (Motocicleta, Bicicleta y Patinetas) </a>
+    <div class="rounded-md shadow grid grid-cols-1 gap-4 md:grid-cols-4 p-2">
+      <a href="{{route('electricidad-basica')}}" class="items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black md:py-3 md:text-md md:px-5">Electricidad en Motocicletas </a>
+      <a href="{{route('alto-rendimiento')}}" class="items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black md:py-4 md:text-md md:px-5">Alto Cilindraje </a>
+      <a href="{{route('preparacion-electronica')}}" class="items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black md:py-4 md:text-md md:px-5">Preparación Electrónica</a>
+      <a href="{{route('vehiculos-electricos')}}" class="items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black md:py-4 md:text-md md:px-5">Vehículos Eléctricos</a>
       
     </div>                                                                                                                                                                                                                                                                                                                                                                        
   </section>
