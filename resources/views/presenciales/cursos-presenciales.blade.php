@@ -21,8 +21,8 @@
             <div class="sm:w-7/12 pl-0 p-5">
               <div class="space-y-2">
                 <div class="space-y-4">
-                  <h4 class="text-2xl font-semibold text-cyan-900">Curso Electricidad Basica</h4>
-                  <p class="text-gray-600">Aprende todo lo que tienes que saber sobre Electricidad En Motocicletas Con nosotros de manera totalmente presencial</p>
+                  <h4 class="text-2xl font-semibold text-cyan-900">Curso Electricidad en Motocicletas</h4>
+                  <p class="text-gray-600">Aprende todo sobre Electricidad en Motocicletas desde lo más básico hasta lo más avanzado, con nosotros de manera totalmente presencial (pruebas de estado mecánico, introducción a la electricidad, herramientas de medición y reparación, diseño de circuitos en protoboard, sistema de carga, encendido, luces, información y seguridad)</p>
                 </div>
                 <a href="{{route('electricidad-basica')}}" class="w-full flex items-center justify-center p-1 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black">Quiero saber más!</a>
               </div>
@@ -37,7 +37,7 @@
               <div class="space-y-2">
                 <div class="space-y-4">
                   <h4 class="text-2xl font-semibold text-cyan-900">Curso Alto Cilindraje</h4>
-                  <p class="text-gray-600">Senzor Academy te brinda curso completo de Mecánica de alto cilindraje, con tecnología de punta, teórico practico totalmente presencial.</p>
+                  <p class="text-gray-600">Senzor Academy te brinda curso completo de Mecánica de alto cilindraje, con tecnología de punta, a través de herramientas especializadas aprende a diagnosticar y reparar motores de alto cilindraje, teórico – práctico, totalmente presencial.</p>
                 </div>
                 <a href="{{route('alto-rendimiento')}}" class="w-full flex items-center justify-center p-1 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black">Quiero saber más!</a>
               </div>
@@ -52,7 +52,7 @@
               <div class="space-y-2">
                 <div class="space-y-4">
                   <h4 class="text-2xl font-semibold text-cyan-900">Preparación Electrónica en Motocicletas de Alto Rendimiento y Competición</h4>
-                  <p class="text-gray-600">Curso de Preparación Electrónica en Motocicletas de Alto Rendimiento y Competición, brindado de manera presencial en nuestra sede SENZOR ACADEMY.</p>
+                  <p class="text-gray-600">Quieres aprender acerca de la Preparación Electrónica en Motocicletas de Alto Rendimiento y Competición, a través de los sistemas de comunicación a distancia podrás, recoger, procesar, diagnosticar y mejorar las motocicletas, teórico – práctico, totalmente presencial en Senzor Academy.</p>
                 </div>
                 <a href="{{route('preparacion-electronica')}}" class="w-full flex items-center justify-center p-1 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black">Quiero saber más!</a>
               </div>
