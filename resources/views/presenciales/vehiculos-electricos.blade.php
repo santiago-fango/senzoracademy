@@ -13,14 +13,14 @@
                 
             </div>
             <div class="hidden lg:mt-0 lg:col-span-5 lg:flex">
-                <img src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/phone-mockup.png" alt="mockup">
+                <img src="{{asset('img/presenciales/vehiculos-electricos/portada-ve.png')}}" alt="mockup">
             </div>                
         </div>
     </section>
 
     <section class="relative  bg-white">
         <div class="relative pt-16 pb-32 flex content-center items-center justify-center min-h-screen-75">
-                <div class="absolute top-0 w-full h-full bg-center bg-cover" style="background-image: url('https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1267&amp;q=80');">
+                <div class="absolute top-0 w-full h-full bg-center bg-cover" style="background-image: url({{asset('img/presenciales/vehiculos-electricos/hero-ve.png')}});">
                   <span id="blackOverlay" class="w-full h-full absolute opacity-75 bg-black"></span>
                 </div>
                 <div class="container relative mx-auto">
@@ -121,8 +121,8 @@
                 </div>
             </div>
             <div class="grid grid-cols-2 gap-4 mt-8">
-                <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+                <img class="w-full rounded-lg" src="{{asset('img/presenciales/vehiculos-electricos/introduccion-a-los-vehiculos-electricos/introduccion1.png')}}" alt="office content 1">
+                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/vehiculos-electricos/introduccion-a-los-vehiculos-electricos/introduccion2.png')}}" alt="office content 2">
             </div>
         </div>
     </section>
@@ -130,8 +130,8 @@
     <section class="bg-white dark:bg-gray-900">
         <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
             <div class="grid grid-cols-2 gap-4 mt-8">
-                <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+                <img class="w-full rounded-lg" src="{{asset('img/presenciales/vehiculos-electricos/introduccion-a-la-electronica/intro-elec-1.png')}}" alt="office content 1">
+                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/vehiculos-electricos/introduccion-a-la-electronica/intro-elec-2.png')}}" alt="office content 2">
             </div>
             <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
                 <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Introducción A La Electrónica</h2>
@@ -163,8 +163,8 @@
               </div>
           </div>
           <div class="grid grid-cols-2 gap-4 mt-8">
-              <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-              <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+              <img class="w-full rounded-lg" src="{{asset('img/presenciales/vehiculos-electricos/herramientas-especializadas-de-diagnostico/herramientas1.png')}}" alt="office content 1">
+              <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/vehiculos-electricos/herramientas-especializadas-de-diagnostico/herramientas2.png')}}" alt="office content 2">
           </div>
       </div>
   </section>
@@ -172,8 +172,8 @@
   <section class="bg-white dark:bg-gray-900">
     <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
         <div class="grid grid-cols-2 gap-4 mt-8">
-            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+            <img class="w-full rounded-lg" src="{{asset('img/presenciales/vehiculos-electricos/motores/motores1.png')}}" alt="office content 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/vehiculos-electricos/motores/motores2.png')}}" alt="office content 2">
         </div>
         <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
             <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Motores</h2>
@@ -204,8 +204,8 @@
           </div>
       </div>
       <div class="grid grid-cols-2 gap-4 mt-8">
-          <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-          <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+          <img class="w-full rounded-lg" src="{{asset('img/presenciales/vehiculos-electricos/baterias/baterias1.png')}}" alt="office content 1">
+          <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/vehiculos-electricos/baterias/bateria2.png')}}" alt="office content 2">
       </div>
   </div>
 </section>
@@ -213,8 +213,8 @@
 <section class="bg-white dark:bg-gray-900">
   <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
       <div class="grid grid-cols-2 gap-4 mt-8">
-          <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-          <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+          <img class="w-full rounded-lg" src="{{asset('img/presenciales/vehiculos-electricos/cargadores/cargadores1.png')}}" alt="office content 1">
+          <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/vehiculos-electricos/cargadores/cargadores2.png')}}" alt="office content 2">
       </div>
       <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
           <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Cargadores</h2>
@@ -238,8 +238,8 @@
         </div>
     </div>
     <div class="grid grid-cols-2 gap-4 mt-8">
-        <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-        <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+        <img class="w-full rounded-lg" src="{{asset('img/presenciales/vehiculos-electricos/controladores/controladores1.png')}}" alt="office content 1">
+        <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/vehiculos-electricos/controladores/controladores2.png')}}" alt="office content 2">
     </div>
 </div>
 </section>
@@ -247,8 +247,8 @@
 <section class="bg-white dark:bg-gray-900">
   <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
       <div class="grid grid-cols-2 gap-4 mt-8">
-          <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-          <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+          <img class="w-full rounded-lg" src="{{asset('img/presenciales/vehiculos-electricos/accesorios-y-componentes-de-las-motocicletas-electricas/accesorios1.png')}}" alt="office content 1">
+          <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/vehiculos-electricos/accesorios-y-componentes-de-las-motocicletas-electricas/accesorios2.png')}}" alt="office content 2">
       </div>
       <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
           <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Accesorios y Componentes de las Motocicletas Eléctricas</h2>
