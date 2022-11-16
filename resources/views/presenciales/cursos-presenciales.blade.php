@@ -24,7 +24,7 @@
                   <h4 class="text-2xl font-semibold text-cyan-900">Curso Electricidad en Motocicletas</h4>
                   <p class="text-gray-600">Aprende todo sobre Electricidad en Motocicletas desde lo más básico hasta lo más avanzado, con nosotros de manera totalmente presencial (pruebas de estado mecánico, introducción a la electricidad, herramientas de medición y reparación, diseño de circuitos en protoboard, sistema de carga, encendido, luces, información y seguridad)</p>
                 </div>
-                <a href="{{route('celectricidad-basica')}}" class="w-full flex items-center justify-center p-1 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black">Quiero saber más!</a>
+                <a href="{{route('electricidad-basica')}}" class="w-full flex items-center justify-center p-1 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black">Quiero saber más!</a>
               </div>
             </div>
           </div>
