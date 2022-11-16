@@ -69,8 +69,7 @@
                           </div>
                           <h6 class="text-xl font-semibold">Mejor Diagnostico</h6>
                           <p class="mt-2 mb-4 text-blueGray-500">
-                            Aprenderas el funcionamiento de los sistemas de inyección
-                            y de esta manera lograras diganosticar mucho mejor
+                            Aprenderás el funcionamiento de los sistemas de la motocicleta y de esta manera lograr diagnosticar y reparar correctamente
                           </p>
                         </div>
                       </div>
@@ -97,8 +96,7 @@
                           </div>
                           <h6 class="text-xl font-semibold">Informacion a la mano</h6>
                           <p class="mt-2 mb-4 text-blueGray-500">
-                            Recibiras acceso a una serie de videos
-                            y material de apoyo para tu aprendizaje
+                            Recibirás acceso a material de apoyo, herramienta y equipos especializados para realizar cada una de tus prácticas.
                           </p>
                         </div>
                       </div>
@@ -260,6 +258,17 @@
       </div>
   </div>
   </section>
+
+  <section>
+    <div class="rounded-md shadow grid grid-cols-1 gap-4 md:grid-cols-4 p-2">
+      <a href="{{route('inyeccion-electronica')}}" class="items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black md:py-4 md:text-md md:px-5">Inyección Electrónica</a>
+      <a href="{{route('electricidad-basica')}}" class="items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black md:py-3 md:text-md md:px-5">Electricidad en Motocicletas </a>
+      <a href="{{route('alto-rendimiento')}}" class="items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black md:py-4 md:text-md md:px-5">Alto Cilindraje </a>
+      <a href="{{route('preparacion-electronica')}}" class="items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black md:py-4 md:text-md md:px-5">Preparación Electrónica</a>
+      
+    </div>                                                                                                                                                                                                                                                                                                                                                                        
+  </section>
+
 
 </body>
 </html>

@@ -69,8 +69,7 @@
                           </div>
                           <h6 class="text-xl font-semibold">Mejor Diagnostico</h6>
                           <p class="mt-2 mb-4 text-blueGray-500">
-                            Aprenderas el funcionamiento de los sistemas de inyección
-                            y de esta manera lograras diganosticar mucho mejor
+                            Aprenderás el funcionamiento de los sistemas de la motocicleta y de esta manera lograr diagnosticar y reparar correctamente
                           </p>
                         </div>
                       </div>
@@ -99,8 +98,7 @@
                           </div>
                           <h6 class="text-xl font-semibold">Informacion a la mano</h6>
                           <p class="mt-2 mb-4 text-blueGray-500">
-                            Recibiras acceso a una serie de videos
-                            y material de apoyo para tu aprendizaje
+                            Recibirás acceso a material de apoyo, herramienta y equipos especializados para realizar cada una de tus prácticas.
                           </p>
                         </div>
                       </div>
