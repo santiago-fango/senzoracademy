@@ -205,7 +205,7 @@
       </div>
       <div class="grid grid-cols-2 gap-4 mt-8">
           <img class="w-full rounded-lg" src="{{asset('img/presenciales/vehiculos-electricos/baterias/baterias1.png')}}" alt="office content 1">
-          <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/vehiculos-electricos/baterias/bateria2.png')}}" alt="office content 2">
+          <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/vehiculos-electricos/baterias/baterias2.png')}}" alt="office content 2">
       </div>
   </div>
 </section>
