@@ -418,10 +418,22 @@
     </div>
   </section>
   <section>
-    <button class="group relative h-12 w-48 overflow-hidden rounded-lg bg-white text-lg shadow">
-      <div class="absolute inset-0 w-3 bg-red-400 transition-all duration-[250ms] ease-out group-hover:w-full"></div>
-      <span class="relative text-black group-hover:text-white">Siguente curso</span>
-    </button>
+    <div class="rounded-md shadow">
+      <a href="{{route('electricidad-basica')}}" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black md:py-4 md:text-lg md:px-10"> Curso Electricidad en Motocicletas </a>
+      
+    </div>
+    <div class="rounded-md shadow">
+      <a href="{{route('alto-rendimiento')}}" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black md:py-4 md:text-lg md:px-10"> Curso Alto Cilindraje </a>
+      
+    </div>
+    <div class="rounded-md shadow">
+      <a href="{{route('preparacion-electronica')}}" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black md:py-4 md:text-lg md:px-10"> Preparación Electrónica en Motocicletas de Alto Rendimiento y Competición </a>
+      
+    </div>
+    <div class="rounded-md shadow">
+      <a href="{{route('vehiculos-electricos')}}" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black md:py-4 md:text-lg md:px-10"> Vehículos Eléctricos (Motocicleta, Bicicleta y Patinetas) </a>
+      
+    </div>                                                                                                                                                                                                                                                                                                                                                                        
   </section>
   
 
