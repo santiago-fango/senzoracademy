@@ -37,7 +37,7 @@
               <div class="space-y-2">
                 <div class="space-y-4">
                   <h4 class="text-2xl font-semibold text-cyan-900">Curso Alto Cilindraje</h4>
-                  <p class="text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum tempora amet nisi repellendus ut ipsa, corporis voluptates dolores adipisci id vero odio enim impedit distinctio quisquam? Omnis esse neque ratione.</p>
+                  <p class="text-gray-600">Senzor Academy te brinda curso completo de Mecánica de alto cilindraje, con tecnología de punta, teórico practico totalmente presencial.</p>
                 </div>
                 <a href="{{route('alto-rendimiento')}}" class="w-full flex items-center justify-center p-1 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black">Quiero saber más!</a>
               </div>
@@ -67,7 +67,7 @@
               <div class="space-y-2">
                 <div class="space-y-4">
                   <h4 class="text-2xl font-semibold text-cyan-900">Vehículos Eléctricos (Motocicleta, Bicicleta y Patinetas)</h4>
-                  <p class="text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum quis, quibusdam eligendi hic quaerat maxime nulla consequuntur ut dignissimos, incidunt aut exercitationem consectetur, natus eos iure omnis fugit corporis saepe!</p>
+                  <p class="text-gray-600">La nueva era de los vehículos eléctricos está llegando a revolucionar, aprende como repararlos aquí en Senzor Academy, teórico – práctico, totalmente presencial.</p>
                 </div>
                 <a href="{{route('vehiculos-electricos')}}" class="w-full flex items-center justify-center p-1 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-black">Quiero saber más!</a>
               </div>
