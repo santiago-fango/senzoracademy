@@ -13,14 +13,14 @@
                 
             </div>
             <div class="hidden lg:mt-0 lg:col-span-5 lg:flex">
-                <img src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/phone-mockup.png" alt="mockup">
+                <img src="{{asset('img/presenciales/preparacion-electronica-en-alto-rendimiento/portada-ar.png')}}" alt="mockup">
             </div>                
         </div>
     </section>
 
     <section class="relative  bg-white">
         <div class="relative pt-16 pb-32 flex content-center items-center justify-center min-h-screen-75">
-                <div class="absolute top-0 w-full h-full bg-center bg-cover" style="background-image: url('https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1267&amp;q=80');">
+                <div class="absolute top-0 w-full h-full bg-center bg-cover" style="background-image: url({{asset('img/presenciales/preparacion-electronica-en-alto-rendimiento/hero-ar.png')}});">
                   <span id="blackOverlay" class="w-full h-full absolute opacity-75 bg-black"></span>
                 </div>
                 <div class="container relative mx-auto">
@@ -126,8 +126,8 @@
                 </div>
             </div>
             <div class="grid grid-cols-2 gap-4 mt-8">
-                <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+                <img class="w-full rounded-lg" src="{{asset('img/presenciales/preparacion-electronica-en-alto-rendimiento/clase-1/c1-1.png')}}" alt="office content 1">
+                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/preparacion-electronica-en-alto-rendimiento/clase-1/c1-2.png')}}" alt="office content 2">
             </div>
         </div>
     </section>
@@ -135,8 +135,8 @@
     <section class="bg-white dark:bg-gray-900">
         <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
             <div class="grid grid-cols-2 gap-4 mt-8">
-                <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+                <img class="w-full rounded-lg" src="{{asset('img/presenciales/preparacion-electronica-en-alto-rendimiento/clase-2/c2-1.png')}}" alt="office content 1">
+                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/preparacion-electronica-en-alto-rendimiento/clase-2/c2-2.png')}}" alt="office content 2">
             </div>
             <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
                 <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Clase II</h2>
@@ -165,8 +165,8 @@
               </div>
           </div>
           <div class="grid grid-cols-2 gap-4 mt-8">
-              <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-              <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+              <img class="w-full rounded-lg" src="{{asset('img/presenciales/preparacion-electronica-en-alto-rendimiento/clase-3/c3-1.png')}}" alt="office content 1">
+              <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/preparacion-electronica-en-alto-rendimiento/clase-3/c3-2.png')}}" alt="office content 2">
           </div>
       </div>
   </section>
@@ -174,8 +174,8 @@
   <section class="bg-white dark:bg-gray-900">
       <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
           <div class="grid grid-cols-2 gap-4 mt-8">
-              <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-              <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+              <img class="w-full rounded-lg" src="{{asset('img/presenciales/preparacion-electronica-en-alto-rendimiento/clase-4/c4-1.png')}}" alt="office content 1">
+              <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/preparacion-electronica-en-alto-rendimiento/clase-4/c4-2.png')}}" alt="office content 2">
           </div>
           <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
               <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Clase IV</h2>
@@ -214,8 +214,8 @@
             </div>
         </div>
         <div class="grid grid-cols-2 gap-4 mt-8">
-            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+            <img class="w-full rounded-lg" src="{{asset('img/presenciales/preparacion-electronica-en-alto-rendimiento/clase-5/c5-1.png')}}" alt="office content 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/preparacion-electronica-en-alto-rendimiento/clase-5/c5-2.png')}}" alt="office content 2">
         </div>
     </div>
   </section>
@@ -223,8 +223,8 @@
   <section class="bg-white dark:bg-gray-900">
     <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
         <div class="grid grid-cols-2 gap-4 mt-8">
-            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+            <img class="w-full rounded-lg" src="{{asset('img/presenciales/preparacion-electronica-en-alto-rendimiento/clase-6/c6-1.png')}}" alt="office content 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/preparacion-electronica-en-alto-rendimiento/clase-6/c6-2.png')}}" alt="office content 2">
         </div>
         <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
             <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Clase VI</h2>
@@ -257,8 +257,8 @@
             </div>
         </div>
         <div class="grid grid-cols-2 gap-4 mt-8">
-            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+            <img class="w-full rounded-lg" src="{{asset('img/presenciales/preparacion-electronica-en-alto-rendimiento/clase-7/c7-1.png')}}" alt="office content 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/preparacion-electronica-en-alto-rendimiento/clase-7/c7-2.png')}}" alt="office content 2">
         </div>
     </div>
   </section>
@@ -266,8 +266,8 @@
   <section class="bg-white dark:bg-gray-900">
     <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
         <div class="grid grid-cols-2 gap-4 mt-8">
-            <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1">
-            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+            <img class="w-full rounded-lg" src="{{asset('img/presenciales/preparacion-electronica-en-alto-rendimiento/clase-8/c8-1.png')}}" alt="office content 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/preparacion-electronica-en-alto-rendimiento/clase-8/c8-2.png')}}" alt="office content 2">
         </div>
         <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
             <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Clase VIII</h3>
