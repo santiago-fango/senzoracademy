@@ -58,3 +58,7 @@ Route::get('presenciales/preparacion-electronica', function(){
 Route::get('presenciales/vehiculos-electricos', function(){
     return view('presenciales.vehiculos-electricos');
 })->name('vehiculos-electricos');
+
+Route::get('presenciales/redes-multiplexado', function(){
+    return view('presenciales.redes-multiplexado');
+})->name('redes-multiplexado');
