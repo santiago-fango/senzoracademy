@@ -29,7 +29,8 @@
             </div>
           </div>
         </div>
-
+        
+        <!-- ocultos 26/03/2024 heidy
         <div>
           <div class="p-1 rounded-xl group sm:flex space-x-6 bg-white bg-opacity-50 shadow-xl hover:rounded-2xl">
             <img src="{{asset('img/presenciales/portada-mecanica-de-alto-cilindraje-presencial.png')}}" alt="Mecanica de alto cilindraje" loading="lazy" width="1000" height="667" class="h-56 sm:h-full w-full sm:w-5/12 object-cover object-center rounded-lg transition duration-500 group-hover:rounded-xl">
@@ -74,7 +75,7 @@
             </div>
           </div>
         </div>
-
+        -->
         <div>
           <div class="p-1 rounded-xl group sm:flex space-x-6 bg-white bg-opacity-50 shadow-xl hover:rounded-2xl">
             <img src="{{asset('img/presenciales/portada-vehiculos-electricos-presencial.png')}}" alt="Vehiculos Electricos" loading="lazy" width="1000" height="667" class="h-56 sm:h-full w-full sm:w-5/12 object-cover object-center rounded-lg transition duration-500 group-hover:rounded-xl">
