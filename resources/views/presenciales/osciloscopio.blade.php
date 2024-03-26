@@ -108,21 +108,18 @@
     <section class="bg-white dark:bg-gray-900">
         <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
             <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
-                <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Introducción A Redes Multiplexado</h2>
+                <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Introducción A unidades de medida</h2>
                 <div>
                     <ul class="px-2" style="list-style-type: circle;">
-                        <li>Medios de trasmisión de datos multiplexado</li>
-                        <li>Protocolos más usados en la automoción</li>
-                        <li>CAN (Controller Area Network)</li>
-                        <li>Estándar CAN</li>
-                        <li>Protocolos CAN más utilizados</li>
-                        <li>Diagnóstico, análisis y reparación de vehículos equipados con CAN</li>
+                        <li>Definición</li>
+                        <li>Patrón</li>
+                        <li>Sistema de unidades de medidas</li>
                     </ul>
                 </div>
             </div>
             <div class="grid grid-cols-2 gap-4 mt-8">
-              <img class="w-full rounded-lg" src="{{asset('img/presenciales/vehiculos-electricos/herramientas-especializadas-de-diagnostico/herramientas1.png')}}" alt="office content 1">
-              <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/vehiculos-electricos/herramientas-especializadas-de-diagnostico/herramientas2.png')}}" alt="office content 2">
+                <img class="w-full rounded-lg" src="{{asset('img/presenciales/osciloscopio/conversion-de-exponenciales/c2-1.png')}}" alt="office content 1">
+                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/osciloscopio/conversion-de-exponenciales/c2-2.png')}}" alt="office content 2">
             </div>
         </div>
     </section>
@@ -130,18 +127,117 @@
     <section class="bg-white dark:bg-gray-900">
         <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
             <div class="grid grid-cols-2 gap-4 mt-8">
-                <img class="w-full rounded-lg" src="{{asset('img/presenciales/redes-multiplexado/controladores/controladores1.png')}}" alt="office content 1">
-                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/vehiculos-electricos/controladores/controladores2.png')}}" alt="office content 2">
+                <img class="w-full rounded-lg" src="{{asset('img/presenciales/osciloscopio/manejo-de-osciloscopio/multimetro.png')}}" alt="office content 1">
+                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/osciloscopio/manejo-de-osciloscopio/osciloscopio.png')}}" alt="office content 2">
             </div>
             <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+                <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Conversión De Exponenciales</h2>
                 <ul class="px-2" style="list-style-type: circle;">
-                    <li>Lectura de memorias y diagnóstico de falla</li>
-                    <li>Señales dinámicas</li>
-                    <li>Configuración de redes multiplexadas</li>
-                    <li>Modificación en sistemas que lo permitan</li>
-                    <li>Actualización en Sotfware y aprendizaje</li>
-                    <li>OBD (On Board Diagnostic)</li>
+                    <li>Interpretación</li>
+                    <li>Lectura de números decimales</li>
+                    <li>Prefijos</li>
+                    <li>Simbología</li>
+                    <li>Unidad de Tiempo</li>
                 </ul>
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-white dark:bg-gray-900">
+        <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+            <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+                <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Manejo De Osciloscopio</h2>
+                <div>
+                    <ul class="px-2" style="list-style-type: circle;">
+                        <li>Ajustes de tiempo</li>
+                        <li>Ajustes de voltaje</li>
+                        <li>Ajuste de TRIGGER</li>
+                        <li>Tipos de TRIGGER</li>
+                        <li>Automático, normal y simple</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="grid grid-cols-2 gap-4 mt-8">
+                <img class="w-full rounded-lg" src="{{asset('img/presenciales/osciloscopio/conversion-de-exponenciales/c2-1.png')}}" alt="office content 1">
+                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/osciloscopio/conversion-de-exponenciales/c2-2.png')}}" alt="office content 2">
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-white dark:bg-gray-900">
+        <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+            <div class="grid grid-cols-2 gap-4 mt-8">
+                <img class="w-full rounded-lg" src="{{asset('img/presenciales/osciloscopio/manejo-de-osciloscopio/multimetro.png')}}" alt="office content 1">
+                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/osciloscopio/manejo-de-osciloscopio/osciloscopio.png')}}" alt="office content 2">
+            </div>
+            <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+                <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">PWM Pulso De Ancho Modulado</h2>
+                <ul class="px-2" style="list-style-type: circle;">
+                    <li>Que es PWM</li>
+                    <li>Como leer las señales</li>
+                    <li>Interpretación en osciloscopio</li>
+                    <li>HZ (Hertz)</li>
+                    <li>Duty (Trabajo)</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-white dark:bg-gray-900">
+        <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+            <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+                <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Interpretación De Sensores</h2>
+                <div>
+                    <ul class="px-2" style="list-style-type: circle;">
+                        <li>Interpretación sensor MAP</li>
+                        <li>Interpretación sensor TPS</li>
+                        <li>Interpretación sensor CKP</li>
+                        <li>Interpretación sensor EST - IAT - ECT</li>
+                        <li>Interpretación sensor VSS</li>
+                        <li>Senzor de oxigeno</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="grid grid-cols-2 gap-4 mt-8">
+                <img class="w-full rounded-lg" src="{{asset('img/presenciales/osciloscopio/conversion-de-exponenciales/c2-1.png')}}" alt="office content 1">
+                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/osciloscopio/conversion-de-exponenciales/c2-2.png')}}" alt="office content 2">
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-white dark:bg-gray-900">
+        <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+            <div class="grid grid-cols-2 gap-4 mt-8">
+                <img class="w-full rounded-lg" src="{{asset('img/presenciales/osciloscopio/manejo-de-osciloscopio/multimetro.png')}}" alt="office content 1">
+                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/osciloscopio/manejo-de-osciloscopio/osciloscopio.png')}}" alt="office content 2">
+            </div>
+            <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+                <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Interpretación De Actuadores</h2>
+                <ul class="px-2" style="list-style-type: circle;">
+                    <li>Interpretación bobina de alta</li>
+                    <li>Interpretación inyector</li>
+                    <li>Interpretación acelerador electrónicoo</li>
+                    <li>Interpretación motor paso a paso</li>
+                    <li>Interpretación válvula IAC</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-white dark:bg-gray-900">
+        <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+            <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+                <h3 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Pinza Amperimétrica</h2>
+                <div>
+                    <ul class="px-2" style="list-style-type: circle;">
+                        <li>Lectura de amperios en los actuadores</li>
+                        <li>Interpretación de datos</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="grid grid-cols-2 gap-4 mt-8">
+                <img class="w-full rounded-lg" src="{{asset('img/presenciales/osciloscopio/conversion-de-exponenciales/c2-1.png')}}" alt="office content 1">
+                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="{{asset('img/presenciales/osciloscopio/conversion-de-exponenciales/c2-2.png')}}" alt="office content 2">
             </div>
         </div>
     </section>
