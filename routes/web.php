@@ -62,3 +62,7 @@ Route::get('presenciales/vehiculos-electricos', function(){
 Route::get('presenciales/redes-multiplexado', function(){
     return view('presenciales.redes-multiplexado');
 })->name('redes-multiplexado');
+
+Route::get('presenciales/osciloscopio', function(){
+    return view('presenciales.osciloscopio');
+})->name('osciloscopio');
